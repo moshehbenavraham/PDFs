@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<report>
+  <buildInformation>
+    <releaseDetails id="core" version="1.30.3" buildDate="2026-10-07T10:02:00+03:00"></releaseDetails>
+    <releaseDetails id="validation-model" version="1.30.3" buildDate="2026-10-07T13:44:00+03:00"></releaseDetails>
+    <releaseDetails id="apps" version="1.30.3" buildDate="2026-10-07T13:52:00+03:00"></releaseDetails>
+  </buildInformation>
+  <jobs>
+    <job>
+      <item size="83014">
+        <name>\\wsl.localhost\Ubuntu\home\aiwithapex\projects\PDFs\output\pdf\windows-tools-2026-10-27\naps2-eng-pdfa.pdf</name>
+      </item>
+      <validationReport jobEndStatus="normal" profileName="PDF/A-2b validation profile" statement="PDF file is compliant with Validation Profile requirements." isCompliant="true">
+        <details passedRules="144" failedRules="0" passedChecks="669" failedChecks="0"></details>
+      </validationReport>
+      <duration start="1793122200858" finish="1793122201199">00:00:00.341</duration>
+    </job>
+  </jobs>
+  <batchSummary totalJobs="1" failedToParse="0" encrypted="0" outOfMemory="0" veraExceptions="0">
+    <validationReports compliant="1" nonCompliant="0" failedJobs="0">1</validationReports>
+    <featureReports failedJobs="0">0</featureReports>
+    <repairReports failedJobs="0">0</repairReports>
+    <duration start="1793122200783" finish="1793122201239">00:00:00.456</duration>
+  </batchSummary>
+</report>

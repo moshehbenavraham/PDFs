@@ -1,0 +1,38 @@
+[
+  {
+    "name": "cover",
+    "mode": "built-in image_gen",
+    "prompt": "Use case: illustration-story\nAsset type: widescreen keynote presentation cover artwork, 16:9 landscape.\nPrimary request: A beautiful, imaginative and gently humorous retro-futurist expedition into tomorrow. An enormous glowing peach-orange planet rises over a deep midnight blue alien landscape; a tiny human explorer and a friendly sculptural robot stand together on a curved observation ridge on the RIGHT HALF, looking toward the planet. A small unbranded fantastical red flying car arcs far in the background like a shooting star. Sophisticated editorial illustration, tactile paper grain, cut-paper and painted airbrush depth, elegant mid-century science-fiction travel poster energy, contemporary museum-quality art. Restrained navy, warm ivory, coral orange and electric mint. Awe and warmth, not dystopia. LEFT HALF mostly deep navy empty sky with very few stars and calm negative space reserved for large typography. Strong asymmetrical composition, highly crafted lighting and texture, sharp silhouettes. No letters, words, numbers, logos, watermarks, borders or panels. This is obviously imaginative illustration, not a photograph or a depiction of a real event.",
+    "asset": "01-tomorrow.png"
+  },
+  {
+    "name": "laundry",
+    "mode": "built-in image_gen",
+    "prompt": "Use case: illustration-story\nAsset type: 16:9 wide keynote illustration.\nPrimary request: Witty retro-futurist household scene. A charming rounded ivory and teal service robot pauses thoughtfully with a laundry basket, while a tiny curly-haired apricot dog sits confidently on a pile of fluffy towels next to a CLOSED washing machine. The dog is safe and smug. The robot has a simple expressive face and its hands stay on the laundry basket. A single red sock hangs on the robot's antenna. This is a visual joke about how complicated an ordinary home is for automation. Editorial painted illustration with tactile paper grain and cut-paper depth, vintage science magazine warmth. Midnight navy shadows, cream walls, coral accents and mint cabinetry. Detailed but uncluttered. Scene occupies the RIGHT TWO THIRDS, left third a calm dark navy wall with usable negative space for type. Warm cinematic lighting, playful and kind. No text, lettering, logos or watermarks. No injury, no dog inside a machine. Not a photo.",
+    "asset": "02-laundry.png"
+  },
+  {
+    "name": "car",
+    "mode": "built-in image_gen",
+    "prompt": "Use case: illustration-story\nAsset type: widescreen presentation art, 16:9.\nPrimary request: A spectacular yet whimsical red unbranded retro-futurist sports car hovers a little above a curved desert proving-ground road, powered by tiny stylized puffs of air. A very small deadpan traffic cone stands below, giving the scene visual humor. No people. This is conceptual art about flying-car dreams, absolutely not documentary footage of an actual Tesla or real launch. Low camera angle, car placed on right half, beautiful sweeping road and dramatic sunset, LEFT HALF calm dark blue sky reserved for typography. Editorial painted and cut-paper illustration, fine printed paper grain, deep navy, coral, burnt orange, mint trails and ivory. Sophisticated travel poster, not comic strip, cinematic light. No text, no brands, no logos, no numbers, no watermark.",
+    "asset": "03-car.png"
+  },
+  {
+    "name": "prize",
+    "mode": "built-in image_gen",
+    "prompt": "Use case: illustration-story\nAsset type: 16:9 keynote chapter illustration.\nPrimary request: An imaginative prize for solving impossible problems. A monumental warm gold trophy transforms into a rocket launch tower on a small fantastical island; tiny diverse adult inventors arrive from different directions carrying a telescope, a sapling, and handmade inventions. The scene evokes an open competition that invites unlikely people to change the world. Giant trophy/rocket on RIGHT HALF, LEFT HALF mostly deep midnight navy sea and sky for large typography. Sophisticated painted editorial travel-poster illustration with tactile paper grain, luminous gold, coral and mint against navy, not childish, not a literal company logo or historical photograph. Clear architectural silhouette, warm optimistic mood, theatrical lighting. No text, no letters, no numbers, no logos, no watermark.",
+    "asset": "04-prize.png"
+  },
+  {
+    "name": "chess",
+    "mode": "built-in image_gen",
+    "prompt": "Use case: illustration-story\nAsset type: 16:9 cinematic keynote illustration.\nPrimary request: Two adult friends, an older woman with silver curls and a younger man, smiling warmly at each other over a game of chess at a small cafe table. In the far background a tiny charming ivory robot holds an enormous gold chess trophy with gentle comic pride, but the humans are happily absorbed in their own game. Theme: enjoying friendship and a craft even when a machine is better at it. The human pair and chessboard are on the RIGHT HALF, very clear warm faces and believable natural hands. LEFT HALF is a calm midnight navy cafe wall with sparse warm reflections, reserved for large text. Sophisticated painted editorial art with fine paper grain, mid-century travel-poster composition, rich navy, coral, golden lamp light, ivory, mint. Elegant, heartwarming, not childish. Simple plausible chess pieces, not a diagram for instruction. No text, labels, logos, watermarks.",
+    "asset": "05-chess.png"
+  },
+  {
+    "name": "community",
+    "mode": "built-in image_gen",
+    "prompt": "Use case: illustration-story\nAsset type: final chapter widescreen 16:9 presentation illustration.\nPrimary request: A warm, lively future community gathering under a vast starry twilight sky. On the RIGHT HALF, a few diverse adult friends sit on a rooftop garden terrace sharing food, a woman plays a guitar and a friend paints a small canvas, one small friendly ivory robot quietly carries a tray of tea. A tree with warm hanging lights and a distant hopeful city skyline. The emphasis is on humans enjoying life together, not technology spectacle. LEFT HALF calm deep midnight blue sky and softly shadowed roof surface for large typography, no people on left. Sophisticated painted editorial illustration and tactile printed paper grain, mid-century science-fiction travel-poster warmth, gorgeous cinematic navy, coral, mint and golden light. Small expressive figures with credible anatomy, spacious harmonious composition. No words, letters, slogans, logos, watermark, or borders.",
+    "asset": "06-community.png"
+  }
+]

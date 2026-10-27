@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-27",
+  "scope": "Windows current user",
+  "root": "C:\\Users\\apexw\\AppData\\Local\\Programs\\PDFTools",
+  "packages": [
+    {
+      "Tool": "Inkscape",
+      "Source": "https://inkscape.org/gallery/item/59503/inkscape-1.4.4_2026-05-05_dcaf3e7-x64_mHK170m.7z",
+      "Root": "C:\\Users\\apexw\\AppData\\Local\\Programs\\PDFTools\\inkscape",
+      "SHA256": "C4DBD64A92628ABE7D7316C43F9325396E4D48417866027EE3D993D4F5B54C6A",
+      "Package": "inkscape-release.7z",
+      "Version": "1.4.4"
+    },
+    {
+      "Tool": "NAPS2",
+      "Source": "https://github.com/cyanfish/naps2/releases/download/v8.6.0/naps2-8.6.0-win-x64.zip",
+      "Root": "C:\\Users\\apexw\\AppData\\Local\\Programs\\PDFTools\\NAPS2",
+      "SHA256": "5337339764A948722A7B1D3286116AD486A633C13EC006C81EEE3A99B9AF12E2",
+      "Package": "naps2-8.6.0-win-x64.zip",
+      "Version": "8.6.0"
+    },
+    {
+      "Tool": "veraPDF",
+      "Source": "https://software.verapdf.org/releases/verapdf-installer.zip",
+      "Root": "C:\\Users\\apexw\\AppData\\Local\\Programs\\PDFTools\\veraPDF",
+      "SHA256": "B512BF24945503A33FC10738ECFFC1F2DCCAAF8593A448E94EE9AC86A9559A59",
+      "Package": "verapdf-installer.zip",
+      "Version": "1.30.3"
+    },
+    {
+      "Tool": "Temurin JRE",
+      "Source": "https://api.adoptium.net/v3/assets/latest/21/hotspot?architecture=x64&image_type=jre&os=windows",
+      "Root": "C:\\Users\\apexw\\AppData\\Local\\Programs\\PDFTools\\Java\\jdk-21.0.12.1+1-jre",
+      "SHA256": "D35F31E712F0FCF6AC5A093EDC90204FBFF22F720BA3950BD09D331D5E621636",
+      "Package": "temurin21-jre.zip",
+      "Version": "21.0.12.1+1"
+    }
+  ],
+  "commandDirectory": "C:\\Users\\apexw\\AppData\\Local\\Programs\\PDFTools\\bin",
+  "userPathContainsCommandDirectory": true,
+  "naps2Languages": [
+    "eng",
+    "heb",
+    "ara"
+  ],
+  "naps2Models": [
+    "fast",
+    "best"
+  ],
+  "naps2DefaultMode": "Fast",
+  "wslLanguages": [
+    "ara",
+    "eng",
+    "heb",
+    "osd"
+  ],
+  "scannerEnumeration": "WIA and TWAIN returned no devices; physical scanning untested",
+  "veraPDFSignatureFingerprint": "13DD102B4DD69354D12DE5A83184863278B17FE7",
+  "nativeJavaDefaultChanged": false,
+  "notes": [
+    "NAPS2 and Inkscape use official portable distributions with Start menu shortcuts.",
+    "CLI entrypoints are in the user PATH; restart the shell/app to refresh it.",
+    "NAPS2 Arabic OCR omitted a line in both Fast and Best; mixed Best also introduced English recognition errors.",
+    "Inkscape PDF import emitted a UTF16 warning; extracted text and rendered output are checked separately."
+  ]
+}

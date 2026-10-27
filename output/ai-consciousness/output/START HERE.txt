@@ -1,0 +1,41 @@
+IS ANYONE HOME?
+AI Consciousness & Sentience
+
+23 main slides, approximately 24 minutes, plus 3 optional appendix slides.
+
+PLAY
+Open Is Anyone Home.html in a modern browser. It works offline and contains
+its images and fonts. Right arrow or Space reveals/advances. Left goes back.
+F enters full screen. B blanks/restores the screen. N shows notes on the
+current display. H opens help. Home/End jump to the first/last slide.
+Slides 2, 7, 14, 18 and 23 contain browser reveals.
+
+EDIT
+Is Anyone Home.pptx has editable text and presenter notes on all 26 slides.
+For exact typography, install the two Inter font files supplied in the
+bundle's assets/fonts folder before editing in PowerPoint. The PDF and
+browser edition already include their fonts. The PowerPoint is static:
+the browser edition supplies the staged reveals.
+
+PRESENT
+Is Anyone Home.pdf contains the full slides, including clickable sources.
+Presenter Guide.pdf contains timing, discussion prompts and source links.
+Audience votes occur on slides 3 and 22. The shutdown dilemma occupies
+slides 18 and 19. The final three slides are optional references.
+
+SOURCES AND ARTWORK
+The complete bundle includes editable build sources, the two supplied
+research documents, seven conceptual artworks, their art direction, and
+the Inter fonts with their license. Primary-source citations appear in
+speaker notes and the guide. Research snapshot: 13 October 2026.
+
+LOCAL WORKSPACE
+/home/aiwithapex/projects/PDFs/ai-consciousness
+Windows delivery copy: Downloads/AI Consciousness - Is Anyone Home/output
+
+BUILD
+source/build-deck.mjs uses the installed Windows artifact-tool runtime.
+source/package-extras.py uses the WSL PDF Python environment and LibreOffice.
+source/verify-outputs.py checks and renders the PDF outputs.
+Keep previous deliverables before rebuilding: the PowerPoint finalizer
+intentionally refuses to overwrite an existing final file or receipt.

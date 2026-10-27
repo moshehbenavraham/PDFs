@@ -1,0 +1,45 @@
+{
+  "eng": {
+    "font": "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+    "lines": [
+      "English document test",
+      "The quick brown fox jumps over the lazy dog.",
+      "PDF tools are ready for document processing."
+    ],
+    "tokens": [
+      "English",
+      "document",
+      "processing"
+    ]
+  },
+  "heb": {
+    "font": "/usr/share/fonts/truetype/noto/NotoSansHebrew-Regular.ttf",
+    "lines": [
+      "שלום עולם",
+      "זהו מסמך בדיקה בעברית",
+      "בדיקת זיהוי טקסט במסמך"
+    ],
+    "tokens": [
+      "שלום",
+      "עולם",
+      "מסמך",
+      "בדיקה",
+      "בעברית"
+    ]
+  },
+  "ara": {
+    "font": "/usr/share/fonts/truetype/noto/NotoSansArabic-Regular.ttf",
+    "lines": [
+      "مرحبا بالعالم",
+      "هذا مستند اختبار باللغة العربية",
+      "اختبار التعرف على النصوص"
+    ],
+    "tokens": [
+      "مرحبا",
+      "بالعالم",
+      "مستند",
+      "اختبار",
+      "العربية"
+    ]
+  }
+}

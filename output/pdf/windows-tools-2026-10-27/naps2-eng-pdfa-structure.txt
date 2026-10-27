@@ -1,0 +1,6 @@
+checking /home/aiwithapex/projects/PDFs/output/pdf/windows-tools-2026-10-27/naps2-eng-pdfa.pdf
+PDF Version: 1.7
+File is not encrypted
+File is not linearized
+No syntax or stream encoding errors found; the file may still contain
+errors that qpdf cannot detect

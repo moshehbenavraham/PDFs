@@ -1,0 +1,14 @@
+English document test
+
+The quick brown fox jumps over the lazy dog.
+
+PDF tools are ready for document processing.
+שלום עולם
+
+זהו מסמך בדיקה בעברית
+
+בדיקת זיהוי טקסט במסמך
+مرحبا بالعالم
+هذا مستند اختبار باللغة العربية
+
+اختبار التعرف على النصوص

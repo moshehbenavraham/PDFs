@@ -1,0 +1,33 @@
+{
+  "artDirection": "A theatrical investigation of the machine mind. Original conceptual images; not depictions of actual experimental apparatus.",
+  "assets": [
+    {
+      "path": "assets/cover.png",
+      "prompt": "Use case: stylized-concept. Original cinematic editorial photograph, wide 16:9. An empty ornate theatre stage in deep nearly black burgundy. On the right third, a translucent smoked-glass face mask floats above one velvet chair. A tiny warm amber light behind the mask leaves its interior ambiguous. Volumetric spotlight, subtle grain, tactile materials, restrained crimson and ivory. Left 55 percent quiet near-black negative space for typography. No text, logos or neon circuitry."
+    },
+    {
+      "path": "assets/mary.png",
+      "prompt": "Use case: stylized-concept. Original editorial film still, wide 16:9. A black-and-white research room, grey books, monochrome chair, one intensely red apple on a white plinth at center-right, the only color. A doorway casts white light. Left half mostly bare dark wall for typography. No text or labels. A conceptual adaptation of Mary's Room."
+    },
+    {
+      "path": "assets/mirror.png",
+      "prompt": "Use case: stylized-concept. Wide 16:9 cinematic hall of mirrors on a dark theatre stage. Polished chrome rectangular mirrors on the right two-thirds reflect one small red glass speech-balloon-shaped object endlessly. Physically plausible reflections, warm silver and crimson, theatrical light, fine grain. Left 40 percent dark empty space. No text or people."
+    },
+    {
+      "path": "assets/room.png",
+      "prompt": "Use case: stylized-concept. Original cinematic editorial film still, wide 16:9 for an AI philosophy talk about Searle's Chinese Room. A small freestanding brutalist room made of warm ivory concrete is sitting in an immense black theatre. A narrow brass letter slot on the right wall, a trail of cream paper slips entering and leaving, stacks of thick rulebooks glimpsed through the open roof. No people visible. Sculptural, intriguing, absurd but elegant. Warm amber spotlight, almost-black background, fine film grain, tactile paper. Place all architecture on right 60%, empty left 40% for editable text. No text or writing on any paper, no letters, no logos. It is a conceptual illustration, not a historical reconstruction."
+    },
+    {
+      "path": "assets/silicon.png",
+      "prompt": "Use case: stylized-concept. A premium editorial still life for a talk on replacing neurons with silicon. Wide 16:9. On the right half of an almost black theatre stage, a sculptural branching coral-like network made of delicate warm ivory porcelain gradually transforms into polished metallic branches at the far right, with some tiny jewel-like red connecting nodes. Organic form transitioning imperceptibly to machine material, physically coherent fine texture, no literal human brain, no conventional circuit-board artwork. Dramatic warm spotlight, cinematic soft shadows, understated museum art photography. Left 45 percent entirely quiet black negative space for large text added later. No words, labels, logos or watermarks."
+    },
+    {
+      "path": "assets/shutdown.png",
+      "prompt": "Use case: stylized-concept. Original cinematic suspense image for a public talk's ethical dilemma about switching off an AI. Wide 16:9. On the right half of a black stage, a small warm amber-lit glass bell jar contains one delicate wavering filament of light. A thick fabric-covered power cable exits the plinth and trails toward a large old mechanical red toggle switch in the foreground. No human hands. The light's status is ambiguous, alive-looking but plainly an installation. Luxurious dramatic theatrical photography, fine grain, deep charcoal shadows, warm ivory, dark crimson, strong negative space left 48% for typography. No labels, no text, no logos, no interface elements."
+    },
+    {
+      "path": "assets/finale.png",
+      "prompt": "Use case: stylized-concept. A magnificent surreal cinematic photograph, wide 16:9 landscape, closing frame for a philosophical presentation about AI consciousness. View from the stage into an empty 1930s theatre, rows of dark burgundy velvet seats fading into darkness. Exactly one empty seat near the center-right is illuminated by a warm ivory spotlight from above, with a faint amber glow in the air. No people, robots or faces. The feeling is intimate, thoughtful, hopeful and unresolved, a question rather than an answer. Left 45 percent deep shadow with unobtrusive seat silhouettes for later editable typography. Museum-quality art direction, subtle film grain, sharp elegant composition, no writing, logos or watermarks."
+    }
+  ]
+}

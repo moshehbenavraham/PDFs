@@ -1,0 +1,286 @@
+{
+  "date": "2026-10-27",
+  "pdfs": [
+    {
+      "file": "inkscape-export.pdf",
+      "pages": 1,
+      "page_sizes_pt": [
+        [
+          595.276,
+          841.89
+        ]
+      ],
+      "structure_exit": 0,
+      "font_listing": "inkscape-export-fonts.txt"
+    },
+    {
+      "file": "inkscape-roundtrip.pdf",
+      "pages": 1,
+      "page_sizes_pt": [
+        [
+          596.0,
+          842.0
+        ]
+      ],
+      "structure_exit": 0,
+      "font_listing": "inkscape-roundtrip-fonts.txt"
+    },
+    {
+      "file": "naps2-ara-best-pdfa.pdf",
+      "pages": 1,
+      "page_sizes_pt": [
+        [
+          595.252,
+          841.993
+        ]
+      ],
+      "structure_exit": 0,
+      "font_listing": "naps2-ara-best-pdfa-fonts.txt"
+    },
+    {
+      "file": "naps2-ara-pdfa.pdf",
+      "pages": 1,
+      "page_sizes_pt": [
+        [
+          595.252,
+          841.993
+        ]
+      ],
+      "structure_exit": 0,
+      "font_listing": "naps2-ara-pdfa-fonts.txt"
+    },
+    {
+      "file": "naps2-eng-pdfa.pdf",
+      "pages": 1,
+      "page_sizes_pt": [
+        [
+          595.252,
+          841.993
+        ]
+      ],
+      "structure_exit": 0,
+      "font_listing": "naps2-eng-pdfa-fonts.txt"
+    },
+    {
+      "file": "naps2-heb-pdfa.pdf",
+      "pages": 1,
+      "page_sizes_pt": [
+        [
+          595.252,
+          841.993
+        ]
+      ],
+      "structure_exit": 0,
+      "font_listing": "naps2-heb-pdfa-fonts.txt"
+    },
+    {
+      "file": "naps2-multilingual-best.pdf",
+      "pages": 3,
+      "page_sizes_pt": [
+        [
+          595.276,
+          841.89
+        ],
+        [
+          595.276,
+          841.89
+        ],
+        [
+          595.276,
+          841.89
+        ]
+      ],
+      "structure_exit": 0,
+      "font_listing": "naps2-multilingual-best-fonts.txt"
+    },
+    {
+      "file": "naps2-multilingual.pdf",
+      "pages": 3,
+      "page_sizes_pt": [
+        [
+          595.276,
+          841.89
+        ],
+        [
+          595.276,
+          841.89
+        ],
+        [
+          595.276,
+          841.89
+        ]
+      ],
+      "structure_exit": 0,
+      "font_listing": "naps2-multilingual-fonts.txt"
+    },
+    {
+      "file": "scanned-three-languages.pdf",
+      "pages": 3,
+      "page_sizes_pt": [
+        [
+          595.276,
+          841.89
+        ],
+        [
+          595.276,
+          841.89
+        ],
+        [
+          595.276,
+          841.89
+        ]
+      ],
+      "structure_exit": 0,
+      "font_listing": "scanned-three-languages-fonts.txt"
+    },
+    {
+      "file": "wsl-ocr.pdf",
+      "pages": 3,
+      "page_sizes_pt": [
+        [
+          595.276,
+          841.89
+        ],
+        [
+          595.276,
+          841.89
+        ],
+        [
+          595.276,
+          841.89
+        ]
+      ],
+      "structure_exit": 0,
+      "font_listing": "wsl-ocr-fonts.txt"
+    }
+  ],
+  "conformance": [
+    {
+      "report": "inkscape-export-verapdf.xml",
+      "pdfa_2b": false,
+      "expected": false,
+      "job_status": "normal"
+    },
+    {
+      "report": "naps2-ara-pdfa-verapdf.xml",
+      "pdfa_2b": true,
+      "expected": true,
+      "job_status": "normal"
+    },
+    {
+      "report": "naps2-eng-pdfa-verapdf.xml",
+      "pdfa_2b": true,
+      "expected": true,
+      "job_status": "normal"
+    },
+    {
+      "report": "naps2-heb-pdfa-verapdf.xml",
+      "pdfa_2b": true,
+      "expected": true,
+      "job_status": "normal"
+    },
+    {
+      "report": "naps2-multilingual-best-verapdf.xml",
+      "pdfa_2b": true,
+      "expected": true,
+      "job_status": "normal"
+    },
+    {
+      "report": "naps2-multilingual-verapdf.xml",
+      "pdfa_2b": true,
+      "expected": true,
+      "job_status": "normal"
+    }
+  ],
+  "ocr": [
+    {
+      "file": "naps2-eng-pdfa",
+      "language": "eng",
+      "missing_or_changed_lines": []
+    },
+    {
+      "file": "naps2-heb-pdfa",
+      "language": "heb",
+      "missing_or_changed_lines": []
+    },
+    {
+      "file": "naps2-ara-pdfa",
+      "language": "ara",
+      "missing_or_changed_lines": [
+        "هذا مستند اختبار باللغة العربية"
+      ]
+    },
+    {
+      "file": "naps2-ara-best-pdfa",
+      "language": "ara",
+      "missing_or_changed_lines": [
+        "هذا مستند اختبار باللغة العربية",
+        "اختبار التعرف على النصوص"
+      ]
+    },
+    {
+      "file": "naps2-multilingual",
+      "language": "eng",
+      "missing_or_changed_lines": []
+    },
+    {
+      "file": "naps2-multilingual",
+      "language": "heb",
+      "missing_or_changed_lines": []
+    },
+    {
+      "file": "naps2-multilingual",
+      "language": "ara",
+      "missing_or_changed_lines": [
+        "هذا مستند اختبار باللغة العربية",
+        "اختبار التعرف على النصوص"
+      ]
+    },
+    {
+      "file": "naps2-multilingual-best",
+      "language": "eng",
+      "missing_or_changed_lines": [
+        "The quick brown fox jumps over the lazy dog."
+      ]
+    },
+    {
+      "file": "naps2-multilingual-best",
+      "language": "heb",
+      "missing_or_changed_lines": []
+    },
+    {
+      "file": "naps2-multilingual-best",
+      "language": "ara",
+      "missing_or_changed_lines": [
+        "هذا مستند اختبار باللغة العربية",
+        "اختبار التعرف على النصوص"
+      ]
+    },
+    {
+      "file": "wsl-ocr",
+      "language": "eng",
+      "missing_or_changed_lines": []
+    },
+    {
+      "file": "wsl-ocr",
+      "language": "heb",
+      "missing_or_changed_lines": []
+    },
+    {
+      "file": "wsl-ocr",
+      "language": "ara",
+      "missing_or_changed_lines": []
+    }
+  ],
+  "inkscape_roundtrip": {
+    "text_preserved": true,
+    "mean_absolute_pixel_delta_0_to_255": 0.3464386487908304
+  },
+  "limits": [
+    "NAPS2 omitted the middle Arabic line in both Fast and Best modes.",
+    "The three-language Best-mode test also changed an English line.",
+    "WSL OCRmyPDF sidecar matched all sample lines; RTL extraction order varies by PDF text extractor.",
+    "Inkscape emitted a UTF16 import warning, but sample text and page geometry were preserved.",
+    "WIA/TWAIN enumeration found no scanner; physical scanning and broad GUI workflows were not tested."
+  ]
+}

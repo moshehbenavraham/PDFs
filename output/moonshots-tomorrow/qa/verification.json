@@ -1,0 +1,37 @@
+{
+  "file": "/home/aiwithapex/projects/PDFs/output/pdf/tomorrow-has-questions.pdf",
+  "sha256": "6058efe3f76b496d6ae222e4b4de8ee9b23ac41fe18933908c8f812443adc16c",
+  "pages": 33,
+  "page_size_points": [
+    1280,
+    720
+  ],
+  "size_bytes": 27472348,
+  "bookmarks": 33,
+  "external_links": 47,
+  "fonts": [
+    {
+      "font": "/AAAAAA+IBMPlexSansCond-Bold",
+      "embedded": true
+    },
+    {
+      "font": "/AAAAAA+IBMPlexSans",
+      "embedded": true
+    },
+    {
+      "font": "/AAAAAA+IBMPlexSans-Medm",
+      "embedded": true
+    },
+    {
+      "font": "/AAAAAA+IBMPlexSans-Bold",
+      "embedded": true
+    }
+  ],
+  "text_characters": 13766,
+  "issues": [],
+  "reliability_math": {
+    "20_steps": 81.8,
+    "100_steps": 36.6
+  },
+  "robot_cost_reduction": 21.1
+}

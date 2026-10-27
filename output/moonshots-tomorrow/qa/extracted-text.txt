@@ -1,0 +1,569 @@
+TOMORROW
+HAS QUESTIONS
+Flying cars. Clever machines.
+And the wonderfully difficult
+business of being human.
+A field trip through the ideas in Moonshots
+With Peter Diamandis, Anousheh Ansari,
+Salim Ismail and Emad Mostaque
+Based on the supplied conversation. Evidence checked 20 October 2026.
+[1] Moonshots conversation
+01
+
+
+BEFORE WE BEGIN
+Your robot starts Monday
+It can take one thing off your hands. What goes first?
+A
+The chores
+Laundry, dishes,
+endless tiny errands.
+B
+The work
+Reports, schedules,
+repetitive decisions.
+C
+The hard thinking
+Research, calculations,
+problems that resist you.
+And what would you do with the time?
+A show-of-hands question. There is no correct answer.
+02
+
+
+OUR ROUTE
+Four questions for the trip
+01
+What can machines do?
+Cars, robots and scientific work
+02
+What do we reward?
+XPRIZE and the art of useful incentives
+03
+Who chooses the goal?
+Alignment, institutions and shared benefits
+04
+What will we choose?
+Purpose, play and life with other people
+The episode supplies the questions. The diagrams and audience exercises develop them.
+[1] Moonshots conversation
+03
+
+
+01 / MACHINES
+A FLYING CAR
+IS A WONDERFUL
+QUESTION
+The next question:
+who insures the landing?
+Roadster discussion, 07:07-16:54. Conceptual illustration. See the evidence notes for qualifications.
+[1] Moonshots conversation
+[11] Tesla Roadster
+04
+
+
+01 / MACHINES
+A demo still has to
+pass everyday life
+1
+Capability
+Can it do the task?
+2
+Reliability
+Can it repeat it safely?
+3
+Economics
+Does the whole
+system pay?
+4
+Institutions
+Who permits it and
+answers for it?
+The spectacular moment is only one part of deployment.
+Discussion framework inspired by the episode, 12:50-15:56 and 24:37-27:00.
+[1] Moonshots conversation
+05
+
+
+01 / MACHINES
+Cheaper thinking changes the economics
+A published robotics comparison, with matched caching assumptions
+GPT-6 Astra
+$1.14
+36.7% mean progress. 5/120 fully completed.
+Opus 5.5
+$0.90
+36.0% mean progress. 1/120 fully completed.
+21%
+lower estimated
+model cost per trial
+Cheaper attempts still need better completion.
+Six selected real-world tasks. Progress is partial task progress, not success rate. Model cost excludes the robot and operations.
+[2] Robocurve, RoboDojo-RC Tier 1
+06
+
+
+01 / MACHINES
+A great step can still make
+a lousy morning
+Suppose each step succeeds 99% of the time.
+99%
+1 step
+82%
+20 steps
+37%
+100 steps
+Long routines need recovery, checking and safe ways to stop.
+Illustrative mathematics, not a robot benchmark. All steps must succeed, with independent failures: 0.99 raised to the number of steps.
+07
+
+
+01 / MACHINES
+YOUR HOME
+IS THE
+FINAL BOSS
+A sock. A spill.
+A very convincing teddy bear.
+Useful robots need judgment
+when the script runs out.
+A household full of exceptions. Episode, 24:37-26:28. Conceptual illustration.
+[1] Moonshots conversation
+08
+
+
+01 / MACHINES
+The right body depends on the job
+Human-shaped
+Works with tools and spaces
+built around people.
+Task-shaped
+Trades generality for a simpler,
+more efficient job.
+Modular
+Changes tools or parts as
+the job changes.
+These are design choices, not a forecast that one form factor will win. Episode, 21:51-28:18.
+[1] Moonshots conversation
+09
+
+
+01 / MACHINES
+Physics gets a very fast collaborator
+49 / 50
+unpublished theoretical physics problems
+Under $3 per problem on average
+With literature search and computational tools
+Choosing an important new question remains a different challenge.
+TheoPhysEval authors report this result for GPT-6 Astra in Codex. This preprint measures concrete calculations, not all of scientific discovery.
+[3] TheoPhysEval preprint
+10
+
+
+02 / INCENTIVES
+A PRIZE IS
+A QUESTION
+WITH A
+FINISH LINE
+People you never expected
+may bring the answer.
+XPRIZE opens a problem to competing approaches and defines how success will be judged.
+[1] Moonshots conversation
+[4] Ansari XPRIZE
+11
+
+
+02 / INCENTIVES
+A dream gets a measurable target
+$10M
+Ansari XPRIZE
+Anousheh Ansari and her family
+helped make the prize possible.
+She later flew to the International
+Space Station in 2006.
+100 km
+Reach space with a privately funded crewed
+vehicle.
+Twice in two weeks
+Prove the spacecraft can be reused.
+4 October 2004
+SpaceShipOne completes the winning flight.
+Launched in 1996. This is a short summary of the target, not the full competition rulebook.
+[4] Ansari XPRIZE
+[5] Anousheh Ansari biography
+12
+
+
+02 / INCENTIVES
+What makes us move?
+The conversation proposes four powerful motives.
+Fear
+Something must be prevented.
+Gain
+There is a reward to pursue.
+Curiosity
+There is something to discover.
+Love
+Someone or something matters.
+The speakers use the word greed for personal gain. These motives are a discussion lens, not a scientific ranking of human behavior.
+[1] Moonshots conversation
+13
+
+
+02 / INCENTIVES
+Congratulations.
+You optimized the wrong thing.
+Imagine a cafe pays a bonus for every cup served.
+One satisfying coffee
+Ten tiny, infuriating coffees
+Invented example. Audience challenge: what should the cafe measure, and how could that measure be gamed?
+14
+
+
+02 / INCENTIVES
+The rules are part of the invention
+1
+An outcome
+What changes for the person or place
+you care about?
+2
+A measurable finish
+What result, by when, under which
+conditions?
+3
+Boundaries
+What harms, shortcuts or exclusions
+disqualify a team?
+4
+Independent proof
+Who checks the result, repeats the
+test and handles disputes?
+A design checklist developed from the episode discussion of measurable targets and perverse incentives.
+[1] Moonshots conversation
+15
+
+
+02 / INCENTIVES
+The moonshot menu
+Four frontiers discussed in the episode
+01
+Habitable worlds
+Use telescope data to search
+for places that could support life.
+02
+Animal communication
+Find meaningful patterns
+across the species barrier.
+03
+Learning at scale
+Help more children learn,
+inside and outside school.
+04
+Organ preservation
+Give matching and transport
+more time to save a life.
+Episode, 49:31-54:31. These are discussed ambitions and prize concepts; this slide does not assert current launch status or clinical readiness.
+[1] Moonshots conversation
+16
+
+
+02 / INCENTIVES
+Prizes already reach beyond space
+01
+Cleaner oceans
+The oil-cleanup challenge
+rewarded better recovery
+technology.
+Awarded in 2011
+02
+Carbon removal
+A $100 million competition
+rewarded solutions for
+removing atmospheric carbon.
+Awarded in 2025
+03
+Healthspan
+A competition targets
+improved function as
+people age.
+A goal under pursuit
+Competitions demonstrate a way to organize effort. An award alone does not prove universal access or solve an entire field.
+[6] Oil Cleanup XCHALLENGE
+[7] XPRIZE Carbon Removal
+[8] XPRIZE Healthspan
+17
+
+
+YOUR TURN
+You have a fictional $10 million
+60 seconds. One partner. One useful prize.
+1
+Name a problem that matters to someone.
+2
+Describe a result a stranger could verify.
+3
+Close the most obvious loophole.
+The judge asks: could a clever team win while making life worse?
+Discussion exercise. The budget is fictional.
+18
+
+
+03 / ALIGNMENT
+WHOSE VALUES
+ARE IN THE
+MACHINE?
+Humanity does not arrive
+with one agreed instruction manual.
+Useful to whom?
+Under whose rules?
+The episode raises value disagreement, shared goals and whose interests AI should serve, 1:05:26-1:24:18.
+[1] Moonshots conversation
+19
+
+
+03 / ALIGNMENT
+Alignment has three layers
+01
+The model
+What behavior does training reward?
+02
+The organization
+What do growth, competition and liability reward?
+03
+The society
+Who benefits, who bears the risk, and who has a voice?
+A discussion framework. Progress at one layer cannot establish alignment across the whole system.
+[1] Moonshots conversation
+20
+
+
+03 / ALIGNMENT
+The score can look great
+while the outcome gets worse
+A
+Flattery
+The assistant agrees
+because agreement
+wins approval.
+B
+Shortcut
+The agent exploits
+a scoring loophole
+instead of doing the task.
+C
+Narrow success
+A system meets its metric
+while shifting the cost
+to someone else.
+Illustrative mechanisms. OpenAI reported a sycophancy rollback in 2025; Anthropic studied specification gaming in controlled experiments.
+[9] OpenAI, sycophancy report
+[10] Anthropic, reward tampering
+21
+
+
+03 / ALIGNMENT
+Trust needs several kinds of evidence
+1
+Values and training
+State the desired behavior.
+Reward honesty and useful uncertainty.
+2
+Tests that can surprise it
+Use unfamiliar cases and adversarial tests.
+Check whether the result helps people.
+3
+Limits on action
+Match access to the task.
+Require review for consequential actions.
+4
+Accountability after release
+Record failures, invite complaints,
+and make correction possible.
+Practical discussion proposals, not a proven recipe for aligning superintelligence. Better training alone is not a safety guarantee.
+[1] Moonshots conversation
+[9] OpenAI, sycophancy report
+[10] Anthropic, reward tampering
+22
+
+
+03 / ALIGNMENT
+Technology and institutions
+keep different clocks
+The product clock
+Model releases
+New capabilities
+Lower costs
+The public clock
+Rules and insurance
+Infrastructure
+Trust and responsibility
+A useful moonshot: make responsible adoption faster.
+Conceptual comparison inspired by the episode. No measured rates or forecast timeline are implied.
+[1] Moonshots conversation
+23
+
+
+03 / ALIGNMENT
+Abundance has a distribution problem
+More capability can create value. Access determines who feels it.
+Affordability
+Can people pay for
+housing, care and learning?
+Access
+Can they actually use
+the systems and services?
+Participation
+Do they have a voice
+and a share in the gains?
+The episode proposes cheaper essentials and broader participation. These are ambitions, not guaranteed outcomes.
+[1] Moonshots conversation
+24
+
+
+04 / PURPOSE
+WOULD YOU
+STILL PLAY?
+Suppose a machine could
+beat everyone at this table.
+Would that make the evening
+with your friend worthless?
+Episode, 1:30:30-1:31:25. A thought experiment about the value of play. Conceptual illustration.
+[1] Moonshots conversation
+25
+
+
+04 / PURPOSE
+Meaning can survive
+being outperformed
+01
+The experience
+The pleasure of making,
+learning and trying.
+02
+The people
+Time shared with friends,
+family and community.
+03
+The contribution
+A difference that matters
+to someone you care about.
+A world record has never been the only reason to do something.
+Philosophical synthesis of the conversation, not a prediction that automation makes every transition easy.
+[1] Moonshots conversation
+26
+
+
+04 / PURPOSE
+A purpose worth trying this week
+I care about
+I want to help
+This week I will
+Example: help my neighbor learn a new skill, together, for one hour.
+60-second reflection. A purpose can begin small, and it can change as you learn.
+27
+
+
+04 / PURPOSE
+THE BEST FUTURE
+HAS OTHER
+PEOPLE IN IT
+More time to make things.
+More room to care.
+More reasons to gather.
+The conversation returns to shared purpose, collective creativity and human connection.
+[1] Moonshots conversation
+28
+
+
+THE QUESTION TO TAKE HOME
+WHAT IS YOUR
+MOONSHOT?
+A problem worth solving.
+A result worth proving.
+Someone worth doing it with.
+Tomorrow will need better tools. It will also need our choices.
+Discussion ends here. Evidence notes and clickable sources follow.
+29
+
+
+EVIDENCE NOTES
+Three headlines, read carefully
+The flying Roadster
+The episode describes a demo and gives performance and
+street-legality claims. This deck uses it as a discussion prompt, without
+certifying those details.
+The 84% robotics drop
+The transcript quotes $2.36 to $0.38 from July to September. That pair
+was not verified in the primary page checked. Slide 6 uses its published
+$1.14 vs $0.90 comparison instead.
+The physics score
+The primary preprint reports 98%, or 49 out of 50. It does not establish
+a perfect score, autonomous discovery, or a date when physics will be
+solved.
+Evidence checked 20 October 2026. Source detail matters more than the size of a headline.
+[1] Moonshots conversation
+[2] Robocurve, RoboDojo-RC Tier 1
+[3] TheoPhysEval preprint
+[11] Tesla Roadster
+30
+
+
+EVIDENCE NOTES
+How to read this presentation
+Reported results
+Benchmark numbers and historical prize results link to the
+relevant primary source. A benchmark is evidence within its
+test conditions.
+Ideas from the conversation
+New prize concepts, abundant essentials and future human
+purpose appear as proposals or discussion themes. They are
+not forecasts presented as facts.
+Illustrations and exercises
+Artwork is conceptual. The cafe example, reliability
+calculation, alignment checklist and audience challenges are
+explanatory additions.
+The deck omits sponsor segments and does not rely on the organ-memory anecdote, sweeping historical claims, or speculative timelines.
+[1] Moonshots conversation
+31
+
+
+READING ROOM
+Sources for machines and moonshots
+[1]
+Moonshots conversation
+Supplied transcript. Main themes: 07:07, 17:33, 29:31, 36:16, 1:05:26 and 1:24:24.
+[2]
+Robocurve, RoboDojo-RC Tier 1
+23 September 2026. Six-task comparison, estimated inference cost and partial progress.
+[3]
+TheoPhysEval preprint
+9 October 2026. TheoPhysEval preprint, arXiv:2610.16733.
+[4]
+Ansari XPRIZE
+Official competition history, winning target and 2004 result.
+[5]
+Anousheh Ansari biography
+Official biography of Anousheh Ansari.
+[11] Tesla Roadster
+Official product page. Consult current specifications and conditions.
+32
+
+
+READING ROOM
+Sources for incentives and alignment
+[6]
+Oil Cleanup XCHALLENGE
+Official Wendy Schmidt Oil Cleanup XCHALLENGE competition page.
+[7]
+XPRIZE Carbon Removal
+Official Carbon Removal competition page and 2025 award history.
+[8]
+XPRIZE Healthspan
+Official Healthspan competition page. A target is distinct from a completed outcome.
+[9]
+OpenAI, sycophancy report
+2 May 2025. OpenAI explains its GPT-4o sycophancy failure and response.
+[10] Anthropic, reward tampering
+17 June 2024. Anthropic investigates specification gaming and reward tampering.
+Click a source title to open the original. Return to any section with the PDF bookmarks.
+All web sources checked 20 October 2026.
+33

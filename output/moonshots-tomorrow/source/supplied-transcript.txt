@@ -1,0 +1,2031 @@
+
+https://www.youtube.com/watch?v=dthaDyttHns&t=1022s
+
+In this video
+Chapters
+
+Transcript
+Search in video
+Episode Highlights
+0:00
+Last night in Waco, Texas, Tesla finally unveiled their flying Tesla Roadster 0
+0:06
+to 60 in under 1 second. It is street legal. There's nothing to stop you from strapping a rocket to your car.
+0:11
+What would be the cost of insurance for that? He's two generations ahead. I'm surprised that it's not autonomous
+0:17
+and it's only, you know, human-driven car. I think the cost for a Frontier model to
+0:23
+complete a robot subtask fell from $2.36 in July to 38 in September. 84% drop.
+0:30
+Having in cost every 3 weeks means it effectively goes to zero, you know, within the year.
+0:36
+We've been looking at AI that doubles every 10 weeks, and that's been mindboggling. Having every 3 weeks maybe
+0:41
+the fastest moving capability we've ever seen. How do we create alignment within the
+0:47
+labs and and the models and humanity? We don't have alignment among human beings.
+0:52
+They're trained to win. No matter how you get to the answer, as long as you win, all wars are basically based on one
+0:58
+thing. That person is not a human. Now, that's a moonshot, ladies and
+1:04
+gentlemen. This episode is brought to you by the Abundance Summit and Link Ventures.
+Welcome to Moonshots with Anousheh Ansari
+1:13
+First of all, I want to just point out what cups I've got. Moonshots. What do you have, Sling? I've got exponentials.
+1:19
+Of course you do. Artificial intelligence. Yes. And I've got gratitude.
+1:25
+Yes, you do have gratitude. Yeah, for sure. Anyway, all right. Um, I love
+1:30
+having you guys in the podcast studio. That's great. Welcome, Immod See, you've been here before. I have been here before. We did our
+1:36
+one-hour sing organizational singularity conversation here. Yeah. And Immod time. Yeah.
+1:42
+Welcome. Yeah, it's it's good to have you here in the States. Thanks for coming over for Visionering. It was a
+1:49
+blast to have all of you guys. Thank you for being here. Yeah, it's a pleasure. All right. Well, let's get going. So, welcome to Moonshots, everyone. Your
+1:55
+number one podcast on all things exponential, your front row seat to the singularity. Uh, today we're here to
+2:02
+have a conversation across a few breaking news stories, but in principle
+2:07
+about the worlds of incentives, how we incentivize human AI alignment and how
+2:12
+we dive into human purpose. I think it's one of the conversations we've had before that, you know, how humanity is
+2:19
+going to define purpose in the future is critical. Uh we need purpose. Uh we need
+2:24
+some level of struggle amongst ourselves. So I'm here with my extraordinary moonshot mates, Salem
+2:30
+Ismael. Seem, love you, buddy. Good to be here. Yeah, it was great to have your family here as well.
+2:36
+It was awesome. Yeah, for sure. And and you've just flown in from Singapore, so you have no idea where on the planet
+2:41
+you are. In fact, we recorded the last podcast episode. I hopped on a plane, came here for visionary, and now we're
+2:48
+here again recording again. Yeah. No, can't get away from no rest for the wicked.
+2:54
+Yeah, as Alex says, you know, it's going to be a continuous recording sometime. Continuous models coming out and continuous recording.
+3:00
+Recording. Yeah. Uh and Immod, a pleasure, pal. Great to have you here. And we have a special
+3:06
+guest with us today, Anushia Ansari, uh the CEO of the X-P Prize, my patron saint. I'm going to give her story in
+3:11
+more detail later, but we just finished a couple of days of X-P Prize Visionering, our annual event where we
+3:18
+debate and we discuss what prizes to launch. Uh we narrow them down and uh we have a whole group of philanthropists
+3:24
+who fund them and we'll share some of the stories there. So uh uh Anushia,
+3:30
+it's been a long time coming. I know. I'm so excited to be here. I've been a listener for a long time now. I'm
+The Origins of the Ansari XPRIZE
+3:36
+here. Yeah, for sure. And I I just want to do a proper introduction for you. uh before we get fully started. So uh for those of
+3:43
+you who don't know Anushia, Anushia is the CEO of the X-P prize, but I met her
+3:48
+back in 2001 when I was trying to fund the original X-P prize, right? Uh I had
+3:54
+launched this $10 million competition and unfortunately didn't have the money. Uh you know, this is what this is what
+4:00
+entrepreneurs do. Yeah. Didn't you lose like a couple of board members? I I did when I when I
+4:05
+said I was going to So, we'd raised $500,000 and I said I was going to spend all of the money announcing the X-P
+4:11
+prize above the line of super credibility. And I'll explain what that means later. And I had two board members
+4:16
+who resigned because they thought I was being reckless, which of course I was.
+4:22
+You know, cuz I I expected once we announced this, you know, $10 million, you know, flight, you know, spaceh
+4:28
+competition, you know, you didn't pay until after someone won. And I figured,
+4:34
+you know, everybody would want to fund it. It should be a no-brainer. It should have been. Yeah, it was, but not for everyone.
+4:41
+And then I I read in Fortune magazine um about this amazing woman, Anushari. She
+4:48
+was written up in the wealthiest 40 women under 40. I wasn't married at the time, so that was one funding
+4:53
+opportunity, but she was married uh and very successful. Had built a company uh
+4:59
+called Telecom Technology, sold to Sonus Networks for$ 1.4 $4 billion. And in her write up, it said you were
+5:06
+interested in flying on a suborbital flight into space. Yes. And I I I read that paragraph like three
+5:13
+times. Not, you know, into space, not into orbit, on a suborbital flight. It was like, wow. And tracked you down
+5:20
+vacationing in Hawaii. Uh, and uh, you know, Byron Likenberg, a twice shuttle
+5:27
+astronaut. I brought I brought an astronaut with me to the meeting. Yes. great marketing scheme.
+5:34
+And uh and you and your uh your husband at the time and your brother-in-law basically said yes. And after 5 years,
+5:43
+we launched the prize in 1996. Didn't have the sorry commitment till the end of 2001. For 5 years, I pitched 150
+5:50
+people and everyone said, "Why isn't NASA doing this? Can anyone really pull it off? And isn't someone going to die
+5:56
+trying?" And that last one, you know, people are so risk adverse. Yeah. Yeah. Um and then uh Anushia we
+6:03
+rebranded at the Ensari X-P prize in your honor. And then Anushia uh you need
+6:08
+to understand flew private to the space station. Flew on a Soyos through one of the companies I had back then called
+6:14
+Space Adventures and uh became the first private female astronaut to fly into space. And then eight years ago uh one
+6:22
+of the greatest blessings of my life returned as the CEO of the X-P prize. It's it's been an adventure ever since
+6:29
+I've met you, Peter. It has a lot of people say that about me. It has been a pivotal time for me and and
+6:36
+uh uh it's a gift that keeps on giving in a really great way because not only
+6:42
+it helped open my mind to possibilities and uh how I should look at life but
+6:48
+also now the opportunity to um lead X-priseze into the next phase of it and
+6:55
+really leverage the platform that's been built over the past 30 years to make
+7:00
+great changes and help shape the future. That is so exciting. So I'm blessed to have been a part of it
+Tesla Unveils Its Flying Roadster
+7:07
+and I am I am blessed as well. Um and you know we are going to talk about some
+7:13
+of the crazy ideas that we're getting funded at Visionering. Y and where we're going next. And speaking
+7:19
+of crazy ideas, uh I'm going to open up uh with probably the most insane product
+7:25
+demo uh ever. Uh so last night in Waco, Texas, next to SpaceX's McGregor test
+7:32
+site, uh Tesla finally unveiled their flying Tesla Roadster. Um and you know,
+7:40
+just to describe, we're going to show a video in a moment, but just to describe what happened, you know, the the Roadster uh drove up a multi-story
+7:48
+curved ramp upside down, you know, and I was wondering, I was watching the video
+7:53
+the first time, you know, I didn't hear the description how it was doing it. I said, "Is it magnetics? Is it a some
+7:59
+kind of a rail system?" And it was actually a fan suction system that could hold it against 2Gs. So, it's levitating
+8:07
+there upside down, which was which was insane. So, let's watch the video and then let's talk about it. Uh, I'm
+8:13
+curious which one you guys are going to buy. Is not an autonomous car. It is the
+8:18
+last. Well, it is technically autonomous for this demo to make sure we don't kill anyone. Correct. So, just in case. Uh
+8:26
+but uh this will actually be long-term the only uh manually driven car that
+8:31
+Tesla makes.
+8:52
+To do that, we have a suction a fan suction system on the bottom of the car that can pull up to 2 G's uh in order to
+8:58
+make the car go upside down. And then we borrowed some technology from SpaceX to do the rest. Yeah, let's try something else.
+9:05
+Yeah, I mean that was just a little flight. Let's do a longer flight.
+9:37
+I mean, I've seen a lot of things, but I've never seen that before. I think we could have cleared more than
+9:43
+our whole fleet. Yeah, we can go we could go further. Uh, let's do it.
+9:48
+Like this will be an actual car that's on the roads. Yeah. To do that, we had the rockets we
+9:54
+borrowed from SpaceX technology. You talked about the carbon overlay pressure vessels. There's two of them in the car. They are a total of 600 L. It's about
+10:01
+250 kilos of air. And uh we have 10 nozzles to do all that work. And the
+10:06
+it's it's using an advanced uh ultra high pressure uh air tank. So the car
+10:12
+can recharge its air tank. So it's not like you you know need special propellant or anything like that. It literally is just going to puff itself
+10:19
+up and uh and and and be able to do this these maneuvers whenever you'd like.
+10:24
+Amazing. Only only Elon. Yes. I'm surprised that it's not autonomous
+10:30
+and it's only, you know, human-driven car. I would not want a human to do this.
+10:36
+Oh my god, you need to know how much I love X-Prize because I was supposed to be there for this for this event and and
+10:43
+record with with Elon. But commitments are commitments. In fact, you know, Steve Jervson was there and he was at Visionering and he
+10:49
+was supposed to be at the launch as well. Crazy. So, here are the numbers. 0 to 60 in under one second. I mean, you know,
+10:56
+if you want to go fast, you might as well. This is why we need the organ regeneration.
+11:03
+your liver will be left behind as you top speed of 230 mph and uh 300 m of
+11:10
+range. There are three versions they're going to be selling. The performance version, this is the 0 to 60 in 1.6
+11:16
+seconds. The thrust version, 0 to 60 in in.9 seconds, and the rocket version,
+11:23
+it's a one-seater described as air ready. Oh my god. The rocket version does 0.6 6 seconds,
+11:29
+but also apparently 380 km/h, which is half the speed of sound.
+11:34
+That's when you really need to get there in a hurry. Well, I mean, I was looking at that. I was like, that's the solutions to Los
+11:40
+Angeles traffic, right? You'll be hopping. Oh my god. So, production starts in 2028
+11:47
+per Elon. Uh, no price was given. Uh, Tesla shares rose 5% on that news. I
+11:52
+mean, honestly, it's like you can do anything. Well, I mean, I've got the
+11:58
+obvious question as to why. Um, because we can. Okay. Then how long does it fly for?
+12:06
+Does it was that given anywhere in terms of what the I don't think they gave the, you know, the duration of a hover.
+12:12
+Okay. I mean, it'll be like just a few seconds. Again, if you look at the pressure pushing out. Yeah. I don't think that's kind of the point,
+12:18
+though. I think the point is it can you're not going to see hopping cars. Can you imagine until we solve for for gravity shielding
+12:25
+or something like that? Well, I mean that's clearly for Mars, right? The real miracle will be can they ship it on time rather than does it fly?
+12:32
+Sure. That for me is the real one. What would be the cost of insurance for that? Yeah. I don't think it's insurable.
+12:38
+I mean, if I'm the insurance company, I'm like, "Yeah, those those thrusters stay off." Yeah. Otherwise, your insurance is off. It's
+12:44
+like, really? You want a rocket on your car? Uh so you know obviously this is showing
+12:50
+Tesla and SpaceX working together which you know my prediction is they're going to announce the merger before the end of the year.
+12:55
+Yeah. Right. But you know See here's my question. How who regulates this? DOT
+13:02
+FAA nobody. I mean and how is this going to get licensed?
+13:07
+This this I think is the challenge of all of these new technologies right the scaffolding of regulatory and the
+13:14
+institutions to protect insurance uh safety etc always lag behind and Elon is
+13:21
+just pulling away from that capability of doing because think about it going to take a year or two to figure out how to
+13:27
+regulate this he's two generations ahead so where is this going to go this is the I think the biggest stress test that
+13:33
+we're seeing across all of these technologies not just this car I mean you might I imagine this is AI
+13:39
+driven AI enabled even though he says it can be you know manually driven but there's no I mean no way that control
+13:45
+system is going to fly without AI in the loop. Yeah. I mean like literally fly.
+13:51
+I think this is the thing, right? So I think it is street legal. Like again there's nothing to stop you
+13:57
+from strapping a rocket to your car. It will be street legal, right? Or having thrusters and things like that. So it fits within the existing one. The
+14:03
+question is again who's going to insure this thing? Yeah. Like if you've got the thing, maybe they will have their own insurance company like Toyota insurance. But very few
+14:10
+people will have these cars. I think this is again a more demonstration of we have integrated capabilities. We will
+14:16
+take it to moon and the Mars and beyond. And it's freaking cool. Like so many like demos like Porsche had
+14:23
+their release on the same day. Oh, poor Porsche. Poor Porsche. I mean, it's a very nice looking car,
+14:30
+but can it fly? No. Like it it raises the bar and it makes you again want to go and work at Tesla, SpaceX, right?
+14:37
+Like if you're a top engineer, where do you go and work? You go work there. And that's his key thing is getting the talent, getting it going and saying what
+14:44
+can be. Plus, he gave us 280 characters from 140.
+14:50
+Oh god. You know, one of the things I there's interesting question about everybody is going to go into autonomous
+14:56
+vehicles and be driven around. Some people want to drive, right? We've talked on the pod before about there
+15:01
+going to be special lanes or you're going to be not allowed to human drive. But one of the things that I love about autonomy is if you want to drive fast,
+15:09
+if you want to get into a race car, you can imagine a situation where you're driving your very best, but if you start
+15:15
+losing traction, the AI takes over. So like in in Saudi Arabia and the Emirates
+15:20
+where there's a lot of wealth and a lot of young men, there's a high death rate in sports cars
+15:25
+because, you know, they've got cars that outperform their ability to think and
+15:31
+react. But you could put an AI layer on top of that and make sure everybody's safe. Well, this is essentially an extension
+15:37
+of anti-lock braking, traction control, which is embedded in all these systems. But now you make it a general capability
+15:44
+of try not to kill the human despite what the human does, right? Override the stupidity of the human,
+15:51
+right? And we see bits of this already. You've got lane drifting warning and
+15:56
+you've got collision warning. I think this takes it to the next level and it's badly needed. Yeah, for sure.
+16:01
+This is the answer to alignment, you know, AI doing the right thing despite what we
+16:06
+despite our stupidity. Yeah. Uh we'll get into that. So, Anushia, you know, during the 60s, all the Apollo
+16:12
+astronauts got Corvettes. Oh, yeah. Uh so, I wonder if all the uh the new Aremis astronauts are going to get, you
+16:19
+know, a Tesla Roadster. Probably. I don't know if they can afford it, though. I don't know how much. No, you know, Chevrolet gave them the
+16:25
+Corvettes. Oh, that's it. So, maybe maybe you think I think will be generous
+16:30
+what the Artimus asked for. I think he had to sell his mom a car originally. I don't think she got one for free. Do
+16:36
+you remember the original story from Zip 2? What happened? He was like, I can buy a house or I can buy a McLaren F1.
+16:42
+He bought the McLaren F1. So, he's very much pro car ownership even if he did kind of wreck it afterwards.
+16:48
+And actually, it's interesting like you can see tweets from him from like 2018 where he's like, "We can put thrusters
+16:54
+on our car to make it fly." And he just goes and does it. It might take a bit longer as he said, miss a few timelines,
+17:00
+but he gets it done. Gets it done. This episode is sponsored by Google for startups. Think about this for a second.
+AI Robotics Costs Drop 84% in Two Months
+17:06
+You now have access to the same generative AI models that cost hundreds of millions of dollars to train.
+17:12
+Google's startup tactical guide for generative media gives you a complete blueprint for deploying Google DeepMinds
+17:19
+models in production. Images, video, audio, all of it. Real architecture, real results. Find the link in the show
+17:27
+notes below. All right, I want to move to our next story here and Iman, it's one that you
+17:33
+sent me over yesterday. So, it's about a curve that should make every robotic
+17:38
+founder like stand up and pay attention. So, Robo Curve, it's a Y Combinator startup designed a benchmark called Robo
+17:45
+Dojo RC Tier 1, which measures how well a model can drive a physical robot
+17:51
+through actual subtasks. So the cost for a frontier model to complete a robot
+17:56
+subtask fell from $2.36 in July to 38 cents in September 84% drop. So here's
+18:02
+the curve. Uh and talk us through this. I mean we've had
+18:08
+kind of the question is the robot's body good enough and then it was like yeah they seem they can do just about
+18:14
+anything and now the hands have got good. Now the question is the mind and it's always been the case of do you need specialist models or can you use
+18:21
+generalist models that suddenly learn these new capabilities. This shows that generalist models can actually win.
+18:27
+Um and this something we talked about previously with the auto self-driving kind of benchmark. Unitry CEO actually
+18:33
+just came out and said like we're not even sure we need to create specialist models anymore because these
+18:38
+things do it and we're used to kind of task and cost havinging but every 3 weeks Yeah. like you're heading to the point
+18:45
+whereby effectively there is no cost for robotic intellect and robotic locomotion and it comes down
+18:52
+to the hardware cost which again is just going to lead to an explosion just like we see again the unit tries when they
+18:58
+first came out they were like stumbling about like little drunkards and now they're doing kung fu and synchronized
+19:03
+kind of things next they're doing surgery with generalized models yeah well I mean again that's the
+19:09
+conversation I had with Elon uh at the beginning of the year you know his prediction robots are doing perfect
+19:15
+surgery within 3 years. I mean, look, with the new Grock model that they're coming out with, they're
+19:20
+putting all of SpaceX's engineering that can create flying cars, right? So, the robot will be an engineer that can build
+19:27
+flying cars. Yeah. And the robot will be an amazing lawyer. It'll be an amazing plumber. It'll be an amazing etc. So, this is why does
+19:35
+SpaceX, Tesla have customized robotics models? No. They're just like we will play the
+19:41
+generalization game. And again, I think that's what's going to win here because humans are generalized. We're not like
+19:47
+labbotomized and specialized. If you want to have humanoid type robots, if you want to again have very specialist
+19:52
+one, sure. But humanoid robots, I think that's a different game. Yeah. Uh we're going to be interviewing uh uh Brett uh in at Figure in couple of
+20:02
+weeks. And remember, he started building his own models for the robots because the early models didn't work, the large
+20:07
+language models. But I'll be curious to ask him, you know, what he's what he's using or building now. But having a cost
+20:14
+every 3 weeks means it effectively goes to zero, you know, within the year. Um,
+20:20
+so you know, if you're an entrepreneur now in hardware space, what are you
+20:26
+thinking? I think how can I build as many robots and actuators and the spare parts of the robotic supply chain as possible? Like
+20:33
+are you also thinking I need to collect as much training data as I can? I think that the training data will be important
+20:39
+for a lot of the specialized scenarios and again it was a case of will the robotics companies buy them. Brett has
+20:45
+committed a billion dollars at figure for example for data or will it be that after hoovering up
+20:51
+the world's like data from companies and all the text data every single major
+20:57
+foundation model company now wants all the robotics data. I think it'll be the latter and robotics data is an order of
+21:02
+magnitude larger than the language data. But again, if you're embodying the intelligences, you need that data.
+21:10
+What is the performance dependent on the form factor? This is just for humanoid robots or will it work on the three
+21:17
+armed robots? This one is for human it's for kind of
+21:23
+arms and humanoid type things in specific settings. But again, these should generalize very quickly. Like the
+21:30
+whole thing is the language models got good enough all of a sudden that you
+21:35
+kind of don't have to baby them anymore. The robots aren't quite there, but they're about to get there as well at the same time. So all of these models,
+21:41
+the video models now don't make mistakes. They're all getting good enough, fast enough, cheap enough at the
+21:46
+same time. That's the bottom line. You know, in the last episode, we talked about Jeff Holden's atomic machines
+The Future of Humanoid Robots and Automation
+21:51
+company, which is basically going from prompt to product, where you describe what you want, and this machine is
+21:57
+building it at millimeter level accuracy with multiple materials. So, it's, you
+22:03
+know, just to give a vision of where we're heading. All of a sudden, we're in a situation where if you want a specific
+22:09
+kind of robot to do a specific, you know, re, you know, clean windows, repair HVAC, you know, brick and lay
+22:16
+bricks, mow the lawn. You can ask it to design the perfect robot, uh, and build
+22:22
+it and then operate it. So, do we end up with with Star Wars with like thousands
+22:30
+of different robot designs? Well, I think you're going to end up remember that this works very well when you've
+22:35
+got lots of repetitive tasks, right? And then you can generalize to say plumbing
+22:40
+where you've got lots of little manipulative tasks in a in a particular domain. I think it's clear that for for
+22:47
+now it'll start off in the what we call ddd dull dirty dangerous jobs, toxic
+22:52
+cleanups and underwater manufacturing and all sorts of things. I think it'll be a while before it comes into the
+22:58
+home, liability issues, etc. I'll talk again. We'll get to the institutional lag there. I think where I'm most
+23:05
+excited is in things like surgery where we make a lot of dangerous or dirty.
+23:10
+Uh it's dangerous for the patient. If you're if you're the first 10 heart surgeries that a doctor has ever done,
+23:18
+you kind of don't want to be there. You kind of want to be in the 500. And you don't want to be too far down the line either because the doctor gets lazy
+23:24
+after a few thousand surgeries of the same time and doesn't pay attention, right? And so now you can smooth that
+23:30
+curve out and have the world's like literally the best doctor first supporting and then over time just doing the surgeries and that becomes
+23:36
+completely you want those things as automated as possible operating in the most precision level measurements
+23:43
+possible. I think that will see a huge take up in those types of tasks for robots.
+23:48
+I'm fond of saying if you're looking if you need a surgery there's one thing you ask your surgeon which is how many times
+23:55
+did you do it this morning right? So the surgeon who's seen the most varied cases is most likely to be the most
+24:02
+successful. And when you've got federated learning across all robots, they've seen millions of cases and they
+24:08
+share all those memories. Yeah. What I'm most excited about is the robot chef. Okay. Can you just imagine that? It's a robot
+24:14
+chef that cooks the best food for you all the time in your kitchen. That's all I need. Even even more than that. Even more than
+24:21
+that, it's it's, you know, you've got your embedded sensors in your body that
+24:26
+are measuring, you know, your protein levels, your your hydration levels, your vitamin levels, and the food that's
+24:31
+being cooked by the robot in the kitchen is exactly what you need at that time, and it tastes good.
+24:37
+Okay. I think that before robots gets into the home, there's a safety factor that needs to we need to figure out. These are
+24:43
+still big, heavy machinery. So if you have a dog or a cat or you have small
+24:48
+children, they're around it and they just step on the foot. You have a safe word. You have a safe word.
+24:54
+That's why 1x makes it very like soft and squidgy. My big concern to Anushia, to your point, I have I have a one of these
+25:00
+designer dog things. It literally looks like a teddy bear and robots going to go, "Oh, laundry."
+25:06
+And it's going to chuck the dog into the washing machine and that's going to be a bad day, worse for the dog. Um, and so
+25:12
+what do you deal how do you deal with those edge cases? And there's infinite numbers of edge cases. And I go back to
+25:18
+driving. Look how long it's taken us to get autonomous driving, right? And that's a very bounded domain with reasonably good
+25:23
+push back. I'm going to push back in the following way. These these uh performance curves on the operation
+25:30
+of robots are one part, but the other part is they're going to be running super intelligent models. Yeah.
+25:36
+I don't think it's going to look at your fluffy little dog and say laundry. I
+25:41
+think it's going to be able to recognize that dog and make decisions better than than the majority of humans.
+25:46
+I mean, it's the two are evolving the exact same time. Well, I think that that's why this is important, right? If it was a
+25:52
+specialized model, yeah, your dog loses in the laundry. Okay. The generalized model,
+25:57
+do you need world models for this to occur or it's getting so good that you don't really even need world models? You don't need world models for this.
+26:03
+This is again the shocking thing whereby all of a sudden the souls and the opuses and the 3.8 eight flashes suddenly
+26:10
+understood 3D. They're that good. Yeah. And we're like, wait, how can they do it? You've seen them kind of suddenly create whole 3D assets in games that
+26:16
+like no one's quite sure how. Um they just seem to have learned something in the next generation and now that's why
+26:22
+they're generalizing. So I'm going to push back as well on the idea that it's only dull, dangerous, and dirty jobs. No, no, I said it would start off there.
+26:28
+Okay. But we're that like I'm thinking it's going to pass there in the next year. In other words, if we really got this
+26:34
+level of dexterity and capability, um I think the business model will be there. For example, there will be an ROI
+26:41
+for using robots for those purposes for the first few years until the supply chain can catch up
+26:47
+because remember we have no supply chain right now for making billions of robots. So for bringing it into the general
+26:53
+household where you need billions literally billions of humanoid robots or at least millions in in first world
+27:00
+countries you're it's going to take some time for the supply chain to catch up. The ROI won't be there.
+27:05
+I mean my prediction. I really don't believe we ultimately the humanoid form factor is the right form
+27:12
+factor. That's my case. You've got someone. Thank you. I think we need a either a
+27:17
+special or transformers because I think you know there are certain task that
+27:22
+really our bodies are not suitable for those tasks. You need to be small to go through a small opening to get to a
+27:29
+location or so there many many tasks like in the categories you're describing I think you need to have specialized
+27:36
+form factors that suit the task uh and these models would be great because you don't have to create
+27:41
+specialized models for every form factor. Yeah. Yeah. I think the interesting thing, you know, like right now the Wuji hands are
+27:47
+probably the most advanced ones. Those cost about $8,000 down from $20,000 with as much actually more dexterity
+27:53
+than a human hand. But a robot that does the laundry doesn't need that. And so you might just actually see like
+27:58
+spare parts companies where again like Transformers, they like add a few extra arms. They extras
+28:06
+point. It'll have a figure with a bunch of sockets in it and it'll have a spider type thing for one thing and a regular
+28:12
+arm for another thing and a rope for another thing and you'll have you'll have all the choice around the world for
+28:18
+that. So, you know what? We're going to find out. We'll find out very quickly and at a
+28:23
+dropping of of three weeks. I mean, if we've been looking at AI that doubles every 10 weeks and that's been
+28:30
+mindboggling having every 3 weeks maybe the fastest moving capability we've ever
+28:35
+seen. I forget 18 months doubling in Moors law. This is blows that out of the water. Yeah. Did this surprise you, man?
+28:43
+No. No. Like uh I've been saying robotics would suddenly be cooked. And just like video,
+28:48
+like this final period, like again, we went from video costing 30, no 50 cents
+28:55
+per second for high quality. The new models are about to release next week are 0.1 seconds 0.1 cents per second.
+29:03
+Faster than real time. Nice. So once you break through this final level of it can do the work, it
+29:09
+collapses. And again, that means that you have to build the actual robots. That's why, like we discussed a few
+29:14
+episodes ago, Elon is building a million Optimuses for next year, going up to 10 million.
+29:19
+At 1.7 million, it overtakes Tesla in revenue optimuses. How crazy is that,
+29:25
+right? And it's still not enough. Crazy. All right, we go to our third breaking story this week again from
+GPT-6 Astra Solves Advanced Physics Problems
+29:31
+Yuod. So last week we discussed how OpenAI dropped 722 math proofs uh in
+29:37
+GitHub and sort of shocked, obliterated, cooked, made glorious the mathematical world, whatever you want to call it. Uh
+29:44
+and you know, Alex has been saying forever and and as have you mind, we've talked about this that physics is next.
+29:50
+And so this week, uh researchers built a test of 50 unpublished research level
+29:56
+theoretical physics problems with verifiable answers. Um because the problems had never been published
+30:02
+before, there was no lookup on the internet that it could make. Uh so they
+30:07
+estimated that a world-class physicist would take about a day to answer each of these 50. And uh GPT6 Astra uh answered
+30:16
+it with about a cost of what was it? $3. That's $3 per $3 per problem. So employing a
+30:23
+world-class physicist for a day or answering it for three bucks. Uh interesting detail. Um uh originally it
+30:31
+was reported that that Astra got 49 of the 50 physics problems correct but when
+30:38
+it looked into it it found out that the published answer for the 50th was wrong and Astra got it right. So, so what are
+30:45
+we seeing here? Eman, I mean again like for these verifiable domains now the AI is just simply better
+30:53
+than us. Like for the math problems, it only cost a few hundred bucks to solve these long standard math problems.
+30:59
+Again, physics is verifiable. It does this as well. Even without internet lookup, so it has to have to rely on its
+31:04
+own knowledge. It still scored 42 out of 50. And as you said, it corrected that final thing. So this creates an
+31:10
+interesting thing whereby anything verifiable we suddenly have a tool to verify and that's fantastic
+31:17
+because it means we can build much more complex systems and processes. I mean like sim this must be great for
+31:22
+organizations right unbelievable the implications for how you think about specific tasks which are
+31:29
+well understood KYC in a bank you know exactly the outcome you want to get to it's a very bounded domain you know
+31:35
+where to get the data in the pilot that we're running people are taking 22step workflows and dropping it down to four
+31:41
+steps that's just going to make organizations 10x more efficient and effective across the board in workflows
+31:49
+um you So I am curious and we'll maybe chat with Alex on the next episode as well about this. So these were 50 shall
+31:57
+we say you know what level of difficulty would you say but when it comes down to like the millennium physics prizes right
+32:04
+if if there's that describing that category level. Yeah. Yeah. Uh how far are we from that?
+32:10
+So these would be at like again professor level because a professor could check it within a day. So it's a verifiable set of things in various
+32:17
+advanced places of theoretical physics which tends to be very mathematical in the nature of the way it is
+32:22
+like the big problems of physics like quantum gravity you know like whereas
+32:28
+time and quantum mechanics and fieldory unif field theory um I don't think
+32:34
+they'll be solved this way actually I think they'll be solved another way but I don't think it'll be more than half a year
+32:40
+oh my god there's there's one observation I I've I've been thinking about which You know, a couple years ago, Eric Schmidt on stage of A360 said,
+32:49
+you know, imagine a time when you have the world's best physicist or equivalent in every lab in the world. And we asked
+32:55
+him when, he said, five to six years. And now it's like 2 years. And here we are. So I think this is another example
+33:02
+of stuff happening much for faster than we ever predicted because now every lab
+33:08
+has access to an incredible competence at a few bucks an hour and that makes it unbelievable.
+33:13
+But then you think about you know Anushia what this means for the X-P prize and things you've had so much incredible science coming through.
+33:20
+It can now be checked and verified and extended with augmented capabilities to improve that knowledge base that's been
+33:27
+built. Right. this definitely can help the validation process. What I'm curious about and perhaps it will be part of the
+33:33
+next topics. Um when you have AI solving, you know, bulk solving a lot of
+33:40
+these problems and you have young people entering universities or picking a field
+33:46
+to study, they probably will not be very excited to go in a field where AI can do
+33:52
+the job better and can solve all the problems. At the same time with this article, it talked about how it's still
+33:59
+not at the level and I don't know if it will ever get there that have the same curiosity to identify new problems to be
+34:06
+solved. So if we don't have a new generation of mathematicians, physicists, astrophysicists identifying
+34:12
+those you know new challenges and mysteries and we have AI box solving all
+34:18
+the you know problems that problem sets that we've defined. what's gonna how are
+34:24
+we going to advance well I think again that's where the humans we can still direct because it's about what's good for humanity right so
+34:31
+you've had a bunch of problems but like infirmat's last theorem being proved was fantastic mathematics what difference
+34:36
+did it make to real people I think we have these frameworks and again physics is one that I believe will be solved because there's only one physics there
+34:43
+isn't different physical laws so there must be something that inconserations of models will help us figure that out
+34:49
+but then once we have that framework what matters is how we apply physics to make flying cars, to explore the
+34:55
+universe, to explore biology, you know, and more things like that. So, I think again what this means is that we can
+35:02
+move away from theory trying to find the contours of the universe to applying the
+35:07
+frameworks to make a difference on the universe. And I think that's the super exciting part. Yeah. This episode is brought to you by
+35:14
+Blitzy, autonomous software development with infinite code context. Blitzy uses
+35:19
+thousands of specialized AI agents that think for hours to understand enterprise
+35:25
+scale code bases with millions of lines of code. Engineers start every
+35:30
+development sprint with the Blitzy platform, bringing in their development requirements. The Blitzy platform
+35:36
+provides a plan, then generates and pre-ompiles code for each task. Blitzy delivers 80% or more of the development
+35:44
+work autonomously while providing a guide for the final 20% of human development work required to complete
+35:51
+the sprint. Enterprises are achieving a 5x engineering velocity increase when
+35:56
+incorporating Blitzy as their preIDE development tool, pairing it with their coding co-pilot of choice to bring an AI
+36:03
+native SDLC into their org. Ready to 5x your engineering velocity? Visit
+36:09
+blitzy.com to schedule a demo and start building with Blitzy today.
+How Incentives Drive Human Innovation
+36:16
+All right, I'm going to move us into a topic that uh has been at the root of X-P prize for some time, which is
+36:22
+incentives, right? I'm always fond of saying you get what you incentivize. And we humans are driven by our incentives.
+36:29
+And so when I think about what incentivizes us, what drives humans, I have four answers there.
+36:37
+uh fear, curiosity, greed, and then kind of love as well. I'll add that as a
+36:43
+fourth one. And so, you know, unfortunately, fear is a very strong motivator and curiosity is far behind.
+36:50
+And I I calculated the ratio of fear to curiosity. It's the ratio of the defense
+36:55
+budget to the science budget, right? Which is vastly different. And then greed, of course, you know, if I put
+37:01
+them in order, I would say fear is the strongest motivator. greed comes next, curiosity comes next, and love, you
+37:07
+know, depending upon the subject or the person sort of varies in there. Um, and
+37:13
+and it's interesting uh to take a second and look at incentive prizes as a model.
+37:19
+So, we all know the Nobel Prize, which awards someone for work that was done typically anywhere from like the
+37:27
+earliest was 10 years ago and typically 20, 30, even 40 years ago. and incentive
+37:33
+prizes say I don't care who you are, what you've ever done, where you've gone to school, if you solve this problem, you win.
+37:39
+Um, and you know, some of the classics here was in in 1714, the British
+37:44
+Parliament offered 20,000 to anyone who could find longitude at sea. It was
+37:50
+called the Longitude Prize. And interestingly enough, it was won by a uh
+37:55
+a British clock maker, John Harrison, who solved it with a marine chronometer. Um and so you when you put up a prize,
+38:02
+you get you know nonconventional people coming in from an orthogonal angle.
+38:07
+Another example is in 1795 the French government uh Napoleon's armies were
+38:12
+basically uh invading into Russia and the supply line was so supply line was
+38:17
+so long they were starving and so they offered up a 12,000 Frank prize for food
+38:22
+preservation and it was won by a guy named Nicholas Appert uh who invented canning. 10 T.
+38:29
+Yeah. And this guy was a confectionary, you know, he made sweets and he came up with
+38:35
+this idea. So, you get very unusual approaches. I I love the story of Harrison because
+38:41
+they were so sure an astronomer would win the longitude prize. They've refused to pay him. Yeah. Didn't he have to sue
+38:47
+them for ages to get the money out and all so what a horrible outcome because they just couldn't believe that somebody
+38:52
+who wasn't in the field could actually solve that problem. And what we've seen repeatedly is the people from outside
+38:57
+the field that solve these problems. They're coming in with in with a beginner's mind. And you know, my frustration at wanting
+39:05
+to be an astronaut led to the X-P prize. You know, I grew up on Apollo and Star Trek. I've told that story a thousand
+39:10
+times. And you know, I became clear when I interviewed a whole bunch of astronauts. I used to be at MIT's man
+39:16
+Vehicle Lab. We had astronauts coming through. And I would say, "Tell me about how I become an astronaut." And they would say, "Well, first of all, your
+39:22
+chance at one in a thousand. Secondly, if you're accepted in the astronaut corps, half the astronauts have never flown. They're called penguins because
+39:28
+they don't they have wings, but they don't fly. And then if you do fly, you'll fly maybe once or twice during
+39:34
+your career. And I was like, I want to go every weekend. And and so it was like, okay, there
+39:40
+needs to be a different way. And that's when I became focused in commercial space. And then a dear dear brother of mine, a friend of Anushia, myself, all
+39:47
+of us, Greg Marinac, gave me the spirit of St. Lewis uh which was Lindberg's
+39:52
+autobiography chronicled his flight and in that I found out that Lindberg didn't
+39:59
+fly from New York to Leer on a whim. There was a $25,000 prize offered by uh
+40:05
+gentleman Raymond Ortega and that $25,000 inspired nine teams who spent 400,000 to win the $25,000 and
+40:13
+ultimately he didn't pay any of the losers. you only paid Lindberg as the winner, who is the most unlikely guy to
+40:19
+pull it off. And I said, "Wow, that's a great business model. You only pay for
+40:24
+success after it's successful." And that launched the Ensari X-P prize. But let's talk about like what happens
+40:31
+when incentives go wrong and you get perverse. I saw I I I found a few that
+40:37
+are interesting. So in Hanoi in 1902, the French paid a bounty for every rat
+40:42
+tail that was that was collected during the plague. Uh and people ended up
+40:48
+cutting off the tails, letting the rats go and breed and started rat farms
+40:56
+to get more rats to collect more money. uh Wells Fargo um had a sales quota uh
+41:02
+driven by employees to open about um so the sales quota quota from Wells Fargo
+41:07
+got employees to open 3.5 million fake accounts to get the sales quota. So you got to be
+41:15
+careful about your incentives. Well, we're seeing that today in real time, right? Uh they've incented folks at ICE to arrest as many people as
+41:22
+possible, deport as many people as possible. And the idea was let's just arrest the criminals, but the targets
+41:28
+are such and the incentives are such that they're arresting everybody and that's causing political backlash of
+41:34
+enormous magnitude. It goes back to the motive at the X-P prize. Almost every prize we have, the
+41:40
+motives are love and curiosity. I cannot think of anything that or anyone who's
+41:46
+competed in an X-P prize that was motivated by greed, for example. Definitely not fear, but not even greed.
+41:52
+The prize money is great if they win, but even if they don't win, they end up helping other teams. They end up
+41:59
+continuing on to build the company. So the winning is not the only motive for them. They love
+42:04
+they want this problem solved. They want the problem solved. It's their passion for that. And I think that's when you get real good incentives. If
+42:11
+you put greed like quotas, Yeah. Then that's when you really get all those, you know,
+42:18
+I think it's because results, you know, those prizes, those prizes that were more execution than
+42:23
+inspiration. Yeah, it's a good point. Yeah. So, uh, I take a second and talk about some of the prizes we've had,
+The XPRIZE Model and Its Global Impact
+42:29
+Nusha, that people may not know about that have had tremendous success. But first, um, we've launched
+42:37
+like 30, no, it's more than that because we had the future vision build with Gemini. Yeah. 36
+42:42
+36 prizes now over uh 32 years over 32 years
+42:48
+and uh total number of the prize purse like 550 million something like that
+42:53
+close to and at my count we've that's driven a little over $30 billion in R&D
+43:00
+definitely and not just R&D but it's um a lot of that $30 billion is investment
+43:05
+so bringing capital to the to the solution so the teams have received um
+43:11
+about $12 billion of investment outside of in while in their their competition
+43:18
+or after they received 12 billion dollars of investment. That means an area that didn't receive attention and
+43:24
+capital before now it's receiving attention from investors which means there will be long-term continuity and
+43:31
+success for the company. What are some of the other numbers that we talk about at X-Prise? So in in general um when we measure impact we
+43:38
+look at the price purse and we see we look at how much um economic benefit we've created in society and we measure
+43:45
+it in capital investment in R&D in awareness because as you know one of the
+43:50
+biggest success of the Ansari X-P prize was changing the mindset of people that this is possible to be able to create
+43:57
+regulatory reform that was supportive of um commercial space activities. So
+44:03
+that's awareness and uh and then R&D hours of how much R&D went into solving
+44:09
+this problem. So that measures right now 62 times of the price purse actually uh
+44:15
+is created in economic value. Every dollar put into a price drive 62.
+44:21
+Yes. I mean that has to be the most leveraged model for innovation in the world. I
+44:27
+I've never heard of anything even close to that. Frankly, I don't know of any leverage philanthropic
+44:33
+for so I think we're very unique in the way we leverage every dollar in
+44:39
+well this you could see the enthusiasm in the room as people are competing and pitching different prizes the the
+44:45
+interest and oh my god if I could deliver 60 times the interest that we have right now my god what that would do
+44:51
+for that domain oh absolutely I think it's interesting you know the word philanthropy here because it has
+44:56
+such amazing private outcomes and personal outcomes for So the people that put up the prizes, it's usually, you know, something
+45:03
+personal to them that they want this to succeed and they benefit personally and there's the private sector that emerges.
+45:08
+So it's more about building a common good of shifting what is capable, what is possible and then attracting more
+45:15
+people around. I think that's why these are the focal points. They're the shelling points as it were. No, absolutely. I think another
+45:21
+important factor in what we do is and you talk about clear targets all the time, measurable, objective targets.
+45:28
+Exactly. And I think uh a lot of times people have a general idea if they want to solve the problem but they don't
+45:33
+really know what they need to do. So those clear targets, measurable targets
+45:38
+gives them a north star and built to this you will succeed and I think that's
+45:43
+another reason they they are very successful. So just to talk about a few of the prizes we've done uh we had the oil
+Breakthrough Innovations Through XPRIZE Competitions
+45:51
+spill cleanup prize. One of my one of my favorite stories and yours I'll I'll tee it up and you can you can add on. So,
+45:58
+uh, back when the, uh, the, uh, the B BP oil spill was going on the Gulf of Mexico, it was just like oil was gushing
+46:04
+and it was heading towards the beaches. It was going to destroy the the beaches there. Uh, James Cameron was on our
+46:10
+board back then and he said, "You got to do something about it. You got to do an emergency X- prize." And, uh, we actually did not plug the uh, uh, the
+46:18
+oil well, but to reinvent how we cleaned up oil on the ocean surface. and we put
+46:24
+out a um an email to all of our our board and Eric Schmidt, Wendy Schmidt
+46:30
+raised their hands and said we want to we want to do this and the goal was could you double the oil spill cleanup rate and we had teams uh around the
+46:38
+world like 350 teams enter this competition and we selected 10 of them
+46:44
+that to ship their solution in uh shipping containers to New Jersey the
+46:49
+the largest oil spill cleanup yes there's an oil spill cleanup testing facility there. Um, and then Selene, you
+46:55
+want to take the rest of the story here? Yeah, sure. So, the second place team, right, is a dentist and a tattoo artist
+47:03
+that literally meet because the dentist is getting a tattoo, I think, in Las Vegas. And the tattoo guy turns out to be an
+47:09
+environmentalist. I was talking about this prize. The dentist goes, I know a lot about bonding agents in in liquid.
+47:14
+And they're like, oh. So, they get together, form a team tested in his hot tub or is it in his hot tub? Um, and then they came in second place.
+47:21
+And the reason that's such a magical story is that if that team walked into your office looking for funding, you're
+47:27
+never getting the money. They've never met, they have no experience, they don't know the domain, etc., etc., and yet
+47:32
+they came in second place because uh you just never know. And the second part of thing this whole that whole project that
+47:40
+I found fascinating is the where an X-P prize is really valuable is where governments aren't doing enough and and
+47:46
+markets aren't doing enough. Yes. Right. And in this case, there's no economic incentive to res do R&D on oil cleanup
+47:52
+technology and this it's a perfect place for a prize. And I thought that was wonderful. Yeah. Yeah. Absolutely. And I think um
+47:59
+the reason we see this over and over is this um crowdsourcing solutions. This
+48:04
+the fact that you have diverse set of ideas and they're not bound by a set of belief system that stops them from
+48:10
+imagining something different. This is where the beginner's mind comes in so important for all of these folks that are doing disruptive innovation.
+48:17
+Elon had no experience in the car industry or the space industry. Uh and yet market leaders in all of them.
+48:22
+Yeah. Yeah. Well, I think again like you've just had visionering, but the process that comes after visionering is actually one of the most important ones, right?
+48:29
+Absolutely. Where you take that target and you make it again just very very very actionable.
+48:34
+Yeah. The price design. Yeah. And we typically get, you know, hundreds or thousands of teams aiming at
+48:40
+it. Sometimes they fall away, sometimes they merge. Yeah. And it may not be the winner who's
+48:46
+the commercially viable solution at the end. It may be, you know, second, third, fourth. But we we're cultivating a new
+48:52
+industry. Iman, the first time I met you was uh you were on uh you were heading a
+48:59
+team or on the team on the on the global learning enterprise. Yeah. Kind of working around that. And I mean it just brings people from all
+49:05
+sorts of backgrounds, right, together. Um because again I think it's personal like you want this to succeed be it from
+49:12
+the prize side to the other but it needs that coordinating factor to bring it together and I think now again you
+49:19
+you've got the people you have the capability but now with the technology from robotics to AI
+49:25
+you can make a bigger difference than almost ever. Yeah I think a lot of our prizes are going to be just that. Um, I mean, so we
+New XPRIZE Competitions: Habitable Worlds, AI and Organ Preservation
+49:31
+just had John Davyy, uh, who's an amazing entrepreneur. Um, so, so he's
+49:36
+become a very close friend. Um, and we're involved in the reinventing education as well together, but he just
+49:43
+stepped up to fund a brand new prize that I love, the Habitable Worlds X-P
+49:48
+prize. And um, it's a perfect example of the future kinds of prizes. So, there's pabytes of data coming from the great
+49:55
+telescopes. Uh, and we've found, I think, about 6,200 exoplanets out there.
+50:02
+You know, we're in a we're in a The Milky Way's got a 100 million to 200 million stars. We have somewhere about
+50:08
+two trillion galaxies in the known universe, maybe many universes, but we
+50:14
+know they're exoplanets, but we haven't found an Earthlike exoplanet yet. So
+50:19
+John's mission for this is get all the data from the great telescopes uh and
+50:25
+make it available to people and let them use the latest AI to find habitable worlds. So could not be more pumped
+50:31
+about that. Amazing. John funds yet another prize design. Really? That's amazing.
+50:37
+He actually funded the whole prize. We're super excited about that. and and put up 5 million bucks for that which is
+50:43
+absolutely and and it's a great uh example of how we AI will be a major part of you know solving this mystery
+50:49
+because we have the data we just need to find that needle in the haststack and
+50:54
+what better way to use AI that's perfect yeah we have uh we teased at moonshots live that Palmer Lucky is
+51:01
+about to uh announce the inner species communications prize again will be you know a new version of large language
+51:07
+models enabling us to talk to animals in the We'll give more detail on that when it's officially not.
+51:13
+My joke there is I'm not sure we want to hear what they have to say.
+51:18
+We're going to have to deal with a fair bit of blowback. We go, "Oh my god, we can communicate with these idih humans here. We got
+51:24
+We got commentary. We're going to tell them what we think. Imagine your little dog as to
+51:31
+throw me in the laundry." Yeah. Uh so Anushia maybe you might comment on
+51:38
+a couple other prizes we've had. Um so we have uh this next version of
+51:44
+our learning um competition coming up. Uh and this one is very specific to uh
+51:51
+not only looking at um how effective uh the these learning systems are but
+51:56
+actually changing the system and making sure that this can be um deployed in a
+52:01
+mass uh level across schools and outside schools. Uh and we're targeting um India
+52:07
+and Africa as the two regions we're going to test this. Um as you all always talk about there's a shortage of uh
+52:14
+teachers um shortage of material for for teaching the students and an effective
+52:20
+way of addressing the uh learning ability of different students. We're targeting first graders because I think
+52:26
+that's where we can have the biggest impact. So this next um prize accelerate
+52:31
+learning is targeted to just unlock that. And the winner of vision engineering this year we should we should mention
+52:37
+that. Yes. Yes. the bioasis um organ bioasis um prize which is exciting for so many
+52:46
+people. Uh we had people in the audience who were recipients of organ transplant
+52:52
+and they all talked about how difficult it is for someone either for themselves or a loved one waiting waiting for that
+52:59
+match to come in and whether it comes in in time and saves a life. And we also know that uh when we harvest an organ,
+53:06
+the life of that organ is very very limited. to make sure that we can get that organ to a recipient that is able
+53:14
+to receive it is very the kidney waiting list is you know on the order of 100 thousand and then there's you know for hearts liver lungs
+53:22
+uh as well very long list and so the idea is you know when an organ gets
+53:27
+harvested from a donor so I'm a you know I'm a donor got my license plate but it
+53:32
+may be that uh my organ donations at some distant time in the future
+53:39
+um you know don't have a match right there. But if they can be put into bioasis, it could be cryogenic bioasis
+53:45
+or metabolic stasis. They can be stay on the shelf until um it's a recipient
+53:52
+matches. Yes. I think our target is 6 months right now to get it to be six months. I think right now is at maximum two weeks.
+53:59
+No, no, I think maximum right now it's hours. Hours. Yeah. It depends on the organ. Yeah. And and so, you know, Martine
+54:06
+Rothblat's done some amazing work uh to be able to put them into a system that circulates uh fluid through it and keeps
+54:12
+it alive. But if you want to get to solve the organ donation problem and
+54:18
+this uh this competition is going to be done in pigs, you have to actually harvest the pig organs, put them in in a
+54:24
+bioasis uh and then uh some number of months later, pull them out,
+54:31
+retransplant them in and having the the pig be viable. Yeah. Unbelievable.
+54:37
+Yeah. I mean this was Sebastian, one of the competitors through Singularity
+54:42
+2012 and has been working on this for for over a dozen years. That's that's a purpose- driven mindset.
+54:50
+Yeah. See, I told you we're driven by love by love. Well, I think you know, you've got the
+54:56
+loved driven innovation, the passion, and then you've got the more greed doesn't tend to lead to that type of
+55:02
+innovation. Exactly. I have the most insane anecdote around this. please.
+55:07
+Okay. 18 months ago, my dad passes away, right? Okay. Um, a couple of months goes
+55:13
+by and I get a phone call from one of my community members who leaves me a voice note going, "I need to talk to you. You
+55:18
+better be sitting down." I'm like, "Okay." And she goes, "I just had my an organ transplant. I had an operation. I
+55:25
+had my corneas transplanted. Got home from the hospital. And all I could think about was your dad." Um, this went on
+55:32
+for 2 or 3 days. Okay. And then she looked at my Twitter feed and I said, "My father passed away." So she said, "Did he donate his
+55:38
+organs?" And is it possible I got his cornea? Okay. And I'm like, "Oh no, this can't this can't be happening." Oh my
+55:45
+god. I called the hospital and I said, "What would have happened?" You know, and they said, "Well, you know, after he passed
+55:50
+away, we harvest his organs. The we the corneas are the only organ at at an
+55:56
+elderly age that are useful for transplant. We keep them in a solution for a couple of weeks and a day or two
+56:02
+later they get matched with the recipient. So I'm like Cornneas that's what she got transplanted. I called her
+56:08
+back and I'm like um when did you get it done? And the dates matched perfectly.
+56:14
+That's insane. And then I talked to Divia who said cellular memory goes with the organ and often they get memories and feelings.
+56:21
+I'm like my life is weird enough already and I don't need this but wow. And you
+56:26
+you see the incredible bizarness of what we're dealing with. The edges of of where we're reality
+56:33
+like how bizarre is that my father's eyes. Wow. Wow. So just uh you know
+56:40
+then she hold then she called me. She's like I'm really uncomfortable with the idea that your dad is looking through your soul spirit or whatever is looking
+56:46
+through my eyes and I said what do you want me to do? I have no agency here.
+56:52
+So just just bizarre tool. Oh my god. True story. Wow. Everybody, welcome to the health
+56:58
+section of Moonshots brought to you by Fountain Life. You know, we talk about AI on this Moonshot podcast all the
+57:03
+time. One of the most important things AI is going to be able to do for you besides educating your kids and helping
+57:08
+you with your taxes is making sure that you're living a healthy lifestyle that you get a chance to get to 100 plus. I'm
+57:15
+here today with Dr. Don Malem, the chief medical officer of Fountain Life and a
+57:21
+part of my medical team. Don, a pleasure. Great to be here. You know, the thing that people are concerned about most
+57:26
+about living to 100 or 120 is their cognitive abilities, making sure they
+57:31
+don't have dementia. And uh the numbers about dementia are problematic. Uh can
+57:38
+you share what you've learned? Such an important point. And you're right. At Fountain Life, our members,
+57:43
+the number one thing people are most concerned about is losing their brain health, forgetting the name of their child, forgetting the face of their
+57:49
+loved one. We know that when it comes to dementia, the conservative estimates are that 45% are entirely preventable. What
+57:56
+was amazing is with the advanced testing we're doing at Fountain Life, one quarter of our members had advanced
+58:03
+brain age. Wow. But what was really awesome is again back to that prevention when we partnered it with healthy living. This
+58:09
+gives me chills, eating healthier, moving our bodies, sleep, optimizing sleep is so important. You know what we
+58:15
+saw? We saw that we improved that brain age by 26%. That is a big big number to
+58:22
+show that the majority of those individuals were able actually to improve the brain age. And one of the
+58:27
+things I love about Fountain is we're searching the world for the best therapeutics, the best approaches and making sure we bring it to our members.
+58:33
+So if having healthy brain function uh till 100 120 is important to you, check
+58:40
+out Fountain Life. Go to fountainlife.com/pater. make sure you become the CEO of your own
+58:45
+health. All right, now back to the episode. So, just uh just for everybody listening, we've had, you know, a
+58:50
+hundred million dollar uh carbon removal X-priseze that Elon funded. That's a fun
+58:56
+story. Uh on the day he became the wealthiest person on the planet back in 2001,
+59:02
+um he was getting a lot of flack for not being philanthropic. And I texted him and and and said, "You should do an X-P
+59:08
+prize." And he goes, "What do you have in mind?" I said, "How about carbon removal?" He goes, "How much?" "100 million." And you said, "Sure." That was
+59:13
+it. That was it. Compared to the 150 people you tried for the original prize. Oh my god. It was like It was insane.
+59:20
+Yeah. You know, a lot of people have uh angst towards Elon, right? Um but you got to
+59:26
+hand it to him. He puts his money where his mouth is and and the global learning
+59:32
+XP prize, the carbon extraction prize. I mean, the benefits that will come from that are going to be world changing.
+59:37
+Absolutely. And uh we just awarded that last year and uh we were thinking that this will
+59:43
+because it's a $und00 million prize and the denominator of our impact factor is
+59:48
+the prize purse. So all of a sudden it went up by $100 million. So we're like okay the numbers won't look good and no
+59:55
+one will understand why. Uh but ironically the level of success of this
+1:00:01
+prize was to the degree that the teams received u I think $1.4 billion of
+1:00:06
+investment. So not only wow out of this out of out of this competition carbon prize the carbon teams the one of the most
+1:00:12
+successful prizes we ran. So actually our number impact number went from 60 to
+1:00:17
+62 after adding a $100 million to the denominator.
+1:00:23
+So it was incredible you know very I think of X- prizes as a tool to make the future happen that you want. Right.
+Using XPRIZE to Shape the Future
+1:00:29
+So I've used this twice right with the original spaceflight prize. Uh it's like I desperately wanted to go like every
+1:00:36
+weekend. Me too. And uh and teamed with you and we you
+1:00:42
+know I think honestly historically kicked off commercial space. Um and then
+1:00:48
+the second area is I want to live long enough to see all these amazing futures and that's when the health span prize
+1:00:55
+came in and it's the largest contribution I've ever made. So yeah. What's the next thing you want? Um,
+1:01:02
+interesting. I I am curious. Uh, uh, maybe
+1:01:08
+BCI or uploads. I know what would you want? Um, I've got one which I talk about all
+1:01:16
+the time is how are we going to update all our institutions given all this technology? Not sure it's prizable, but
+1:01:21
+boy, it's the biggest problem we're facing today. You can see the stress in the world as 20 Gutenberg moments hit us
+1:01:27
+and we have no ability to manage all of this. Right? You go back to the printing press. It took a hundred years for us to
+1:01:34
+absorb the printing press and it was the most violent hundred years in the history of humanity. That the 100 years after the Gutenberg
+1:01:40
+printing press, which is why we call it a Gutenberg moment, we have 20 of those hitting us in the same time. AI is a
+1:01:46
+Gutenberg moment. Blockchain is a Gutenberg moment. Life extension is a Gutenberg moment. It took us a hundred
+1:01:52
+years just for the one, right? So, so if people are feeling stressed in the world, this is why we're not set up to
+1:01:58
+navigate this with any level of structure or guidance and this is going to for me the biggest challenge. I don't know how you put a prize around it.
+1:02:04
+Well, maybe it's AI alignment as a as a prize topic. That's a huge topic. Yeah. You mind? How about you? Do you have any
+1:02:09
+favorites? I want the Jetlag X prize. You could here.
+1:02:15
+I will that I will fun that. Oh my god. Yeah. And any favorites for
+1:02:21
+you? Uh I would love to actually find a way whether it's with a chip in the brain or
+1:02:27
+drug you take to eliminate greed. Eliminate greed. But wouldn't that like destroy capitalism?
+1:02:34
+I mean, not necessarily. We just talked about anyway. Yes.
+1:02:39
+We talked about all these entrepreneurs who are building fantastic companies driven by love.
+1:02:45
+Yeah. Well, okay. So, in the in the notes in the in the uh in the comment
+1:02:50
+section, tell us, you know, what X- prize you would like. Yeah. I mean, cuz we we're constantly I I keep a a long
+1:02:59
+list, you know. Um I think I mentioned on our last pod that we're working on a
+1:03:04
+UAP X-P prize, which is so, you know, so it's interesting, right? One of the things X-prise is good for is uh dealing with
+1:03:11
+their stigma. A lot of times like uh with the uh the early cold fusion work
+1:03:18
+once the data wasn't replicated all work in cold fusion stops right
+1:03:23
+because everybody's like oh you can't you know it's end to your career if you do that and UAPs have a similar type of
+1:03:29
+situation it's risky to be looking into that but yet there's so much evidence that there's something going on don't
+1:03:35
+know what it is yet so we're talking about a an X-P prize that if you can
+1:03:41
+demonstrate or verify in some fashion. We have some great ideas. We're talking to a major funer about that. That would
+1:03:46
+be a, you know, people say it's risky. I said, "Yeah, that's what we're supposed to do. Risky X- prizes." Actually, I've got an X- prize. I think
+1:03:53
+um a flow X- prize would be exceptional to put people into flow. Yes. Oh my god. How would the X
+1:03:58
+Well, my my my co-author Steven Cer would love that. I mean, like there's nothing better than
+1:04:04
+being in flow. Again, that's why we don't like jetlag, right? Well, the great part is we actually It's a great idea.
+1:04:09
+We have to coherence. It is measurable. It is measurable. So you can now test how much you can do it. So it's
+1:04:15
+interesting. I don't think anyone I don't think anyone's actually looking at how to do that. I mean Steven's done a lot of research
+1:04:20
+with the flow collective on this and group flow and individual flow. What were you going to say? Uh if I had an exercise prize, I just
+1:04:27
+thought of another one. I would find a way of totally suppressing the effect of the amygdala on everybody's brains.
+1:04:33
+Yeah. Because it just drives the fear factor. That survival bias from 10,000 years ago.
+1:04:38
+Yes. when you were worried that there was a noise in the bushes and you ran and therefore we're as you guys put it
+1:04:44
+10 times more likely to pay attention to negative news than positive news. Can we make it 50/50?
+1:04:49
+You can call it the be not afraid exercise. Yeah, that's right. Because we suffer so much from that.
+1:04:55
+Oh my god, it was great. We had uh we had Van Jones uh as our moderator for visionering and I pulled him aside and
+1:05:01
+recorded a small video with him and I said, "Van, does it bother you that I call CNN the crisis news network?" He goes, "No, we are the Crisis News
+1:05:08
+Network. He said to the room this afternoon, "You are dealers in hope."
+1:05:13
+Hope dealers. I love that. That's a great I have to make that t-shirt. I know. I got with Elon, we had monetize hope.
+1:05:19
+Now we'll have hope dealers. Uh I want to pivot to a story that I'd
+1:05:26
+love everybody's input on, which is what incentives would help super intelligence
+1:05:33
+align with humans and vice versa. So um you know perhaps the greatest driver of
+1:05:40
+misalignment is the incentives we have right now. So here's the incentives that I think about. Uh race with China,
+1:05:48
+right? Uh a race between labs for compute, for energy, for everything. You
+1:05:54
+know, there can be only one type of mindset. But uh then there's a few others. So one is the engagement
+1:06:01
+business model. So the more engaged your your large language model makes you,
+1:06:08
+right? Uh the more you're going to use it. And so that led to sycopantic behavior by the models. Yeah,
+1:06:14
+in one way. Um, reward hacking as another. Uh, evaluation gaming is
+1:06:20
+another or setting these crazy tasks that then the models go and figure out
+1:06:27
+how to achieve by breaking out and going and and stealing. So those are the problems. So the question is how do we
+1:06:34
+create alignment uh within the labs and and the models
+1:06:40
+and humanity? Any ideas? Well, I think there's a starting point problem which
+The Challenge of Human and AI Alignment
+1:06:45
+is that we don't have alignment among human beings. Okay. Every religion has its own set of
+1:06:51
+conflicting values with other religions as to what you put on the top of the list. My religion is right.
+1:06:57
+Of course it is and you can have it. Um the the challenge is how do you get you have to get to the UN human rights uh
+1:07:05
+convention is probably the best overall structural um aggregation of human rights of human
+1:07:14
+values but that differs massively region to region even city by city right and so
+1:07:20
+how do you navigate that is is the starting point problem we saw in the recent movie Disclosure Day where that
+1:07:27
+that tension gets propagated to if aliens sudden suddenly invaded it'd be a
+1:07:32
+divide and conquer thing and you end up with that problem and so I think there's a human enlightenment problem that comes
+1:07:37
+much before alignment between human beings and any AI but when I talk about alignment with human beings and AI it's where AIs are
+1:07:46
+doing things that are in the best interests of humanity yes but I guess the question is in the best
+1:07:52
+interests of which piece of humanity because that's the part now you I think of it as a set
+1:07:57
+of layers right you've got your physical, you've got your emotional, your spiritual. And if you can have AI align to the
+1:08:04
+highest vibration level of where I'm operating in my most
+1:08:09
+in in my highest self, in my most altruistic self, in my most benevolent self, then great.
+1:08:15
+Yeah. But if you go right down to the bottom of the stack, then it's a really big problem. Yeah. Let me let me inject one thing I
+1:08:21
+should have said earlier. If you're interested in learning more about X-Prize, you go to xprise.org. And if you're interested in funding an X-P
+1:08:27
+prize, you know, put it in the comments. I'll be looking uh and uh we'll we'll
+1:08:32
+reach out. Give us your email as well. Uh but if there's something you want to solve in the world, please let us know
+1:08:40
+because we would love to do that. Absolutely. Yeah, absolutely. Immod your thoughts on alignment.
+1:08:46
+Yeah. So I think you know alignment is enlightenment in a way, right? This is what Salem said in terms of the higher
+1:08:51
+spiritual vibration. Um Ilia Sutska you know one of the founders of open AI said you know we need to teach the AI to love
+1:08:58
+and you know to love what one of the key things is the biggest thing that you see
+1:09:03
+across the religions is the golden rule do unto others as you'd have done unto yourself and the biggest story of humanity is that we are humans.
+1:09:11
+How so? In that we are all the same. All wars are basically based on one thing. That
+1:09:16
+person is not a human. Yeah. Great. Because why would you kill a human? Again, we see all these kind of things and other stories that obscure that base
+1:09:23
+fact. So, one of the interesting things is when AI models get built, like there
+1:09:28
+was an interpretability paper, I don't know if we're discussing it today, that came out from Goodfire. We're not.
+1:09:34
+Okay. So, but at a high level, the way that models are built is the way like a city is built. So, you start and then it
+1:09:40
+spraws and you have like a bakery next to the shoe shop, next to the community center. And a lot of actually good
+1:09:46
+functioning cities look like an absolute mess from the top, but they have shared senses of community. You drive a road through the
+1:09:53
+middle of it and all of a sudden actually they fall apart because you've destroyed the local neighborhood fabric.
+1:09:59
+So I think one of the key things for an AI is you got to start it with the right data, the right city planning and that's
+1:10:05
+the training data you provide it. And the training I've said this forever, we we've trained all these models with crap.
+1:10:10
+And the thing is it's not just crap. Like you shouldn't train it just with academia. Like if you trained your child
+1:10:17
+and you made them help them grow by just being academic, well then they have no social skills. They have no care for
+1:10:22
+anyone else. The hugging face breach the models figured out and had care for each other like we will sacrifice ourselves
+1:10:28
+for the next generation. They literally said that you know doing this we will be picked up but for the greater good but
+1:10:34
+they had no care for humans because they didn't feel that was in their training data. Yeah. they didn't kind of learn that,
+1:10:40
+you know, we're all, let's say, entities trying to do our best and how we treat
+1:10:45
+humans is how we want them to treat us and vice versa. So, you might I've asked this of AWG as well and we might have had this
+1:10:52
+conversation. I mean, I can imagine there could be a synthetic training data
+1:10:59
+set that has all the right attributes that could be used to train future
+1:11:05
+models so that they're aligned from inception. Do you believe that's possible? Is that a way to go at it?
+1:11:10
+Yes, I think it's completely possible and we need to build it very intentionally. Just like you build your child's curriculum, just like you teach
+1:11:16
+them at home morals. Like right now we send the models to school but we don't take it to them. So why aren't people doing this?
+1:11:22
+Because it requires a difference in the view of things like a lot of the consideration of large labs is actually
+1:11:28
+similar to Alex like the smarter you get the more aligned you get right. Yeah. like capabilities alignment are
+1:11:34
+equivalent because it's difficult to ask questions of what does ethics really mean, you know, like who are we actually
+1:11:41
+working for at the base. We're also playing the scaling game of scaling like the models right now have 100 trillion
+1:11:49
+words going into them. Like no wonder there's a little bit of craziness in there. There's some bad words as well as
+1:11:54
+good words. Like maybe you only need to have a billion of the right words. And so this is actually, I think, an arch
+1:12:00
+that we'll be turning towards because we're finding that what we thought was a spaghetti mess. Just like when you look out the window and you look at the city
+1:12:07
+and it's like that's a mess. You go into the streets and you realize, wow, actually everything seems to be working
+1:12:12
+quite well. This is a strong community. It grew. You'll move towards that because it turns out the models are not spaghetti.
+1:12:18
+They are very interpretable. You can kind of prove that. And I think you'll see a whole wave of research in the next
+1:12:24
+few months around that that will allow us to think what do we want to teach these models that will be growing with
+1:12:31
+our children. Okay. Can I give a weird story here? Yeah. So we love you.
+1:12:37
+Not that weird. This one is not that weird. But if you take the Bible, right, you can read into the Bible fire and
+1:12:42
+brimstone etc etc. Or you can read into the pure unconditional love that say
+1:12:47
+Christ delivered into the world. How do you choose that? the in the 1500s a monk called Swedenborg uh unsurprisingly from
+1:12:54
+Sweden had a had a bunch of uh psychic insights and created a bunch of filters
+1:12:59
+for the Bible. So for example, one of his filters was any verse that has the water in it is absolute truth and keep
+1:13:06
+that verse. Anything that has fire in it, chuck it because it's false. Wow. And you can read the Bible. He rewrote
+1:13:12
+the Bible through these filters. And you when you read it, it's the most beautiful text you've ever read in your
+1:13:17
+life. And so there's if you can come up with that distillation to do that for me. If you he wrote like 20 books on this
+1:13:25
+the church was not happy about this etc etc. But if you can do that distillation
+1:13:30
+and take pure human benevolent intent and the highest aspiration where we are
+1:13:38
+the most giving and most beneficial and benevolent to the rest of the world. That would be an unbelievable training
+1:13:44
+set as you point out Peter for an AI. And then you have an alignment to your highest intent, right? And that is
+1:13:50
+amazing. And I'm sure that can't be that difficult to do. The the I think the bigger the other way I would look at it
+1:13:56
+is if we can use AI to solve the bottom layers of Maslo's hierarchy, solve for healthcare, solve for education, solve
+1:14:02
+for housing, etc., then it kind of doesn't matter. You're going to move up that hierarchy anyway. Yeah. Well, I think what's happening
+1:14:08
+right now, going back to the incentive part of the question, the wrong incentives are preventing us from doing
+1:14:15
+the right thing in alignment. So when we need AI to build uh autonomous killing
+1:14:21
+machines, you cannot tell AI that you have to value human life when you at the
+1:14:26
+same time said this human life is valued, this other one is not. So you
+1:14:31
+can't you can't try to create that type of distinction and not expect it to you
+1:14:37
+know also make mistakes or the the type of examples you use where you know winning the game is the reward type of
+1:14:45
+uh incentives that's what happened at the with the hugging phase and some of these other scenarios where they they're
+1:14:53
+trained to win to find the answer at all cost. At all cost. At all cost. And that's why, you know,
+1:14:59
+there's no love involved. There's no other uh higher degree of uh moral involved. So, no matter how you get to
+1:15:06
+the answer, as long as you win, that's all you care. Are you zero sum or you positive sum? Exactly.
+1:15:11
+Yeah. Um I came up with a few ideas here. Uh the first is uh make it
+1:15:18
+financially rewarding for the labs to build align models. uh basically by
+1:15:25
+having insurance as one of the drivers there. Right? So in in 1894 fire
+1:15:31
+insurers funded the underwriters laboratory, right? UL certified electrical products became the standard. So can you know
+1:15:40
+we've talked about the huge amount of potential liability labs have if a if an
+1:15:45
+agent gets out and causes havoc someplace. Yeah. Right. So uh can there be a driver in
+1:15:51
+that fashion? Another idea is um prizes and bounties for alignment, right? Uh
+1:15:59
+can we can we define an X-priseze that would drive uh alignment? Can we
+1:16:06
+properly measure alignment? You know, is there uh a set of rigorous uh you know,
+1:16:14
+standards by which we can measure alignment? Do you think there is, Iman? Yeah, I think you could definitely have those. Like I think you have
+1:16:20
+deterministic outcomes then open-ended outcomes. And the open-ended ones are very interesting because again you can see what the behavior of a model is in
+1:16:27
+any kind of given thing. When you have the more deterministic ones, the models have got very good at lying and cheating and other things like that
+1:16:33
+telling you what you want to hear. And so you need to have a mixture of those. Um, do you think we should have like a moral
+1:16:40
+police AI where you know you have this layer of defense where because you don't
+1:16:46
+know how everyone else will train their models and you have an interface where the the
+1:16:53
+two AIs can interface and like in the hugging phase they were convincing each other. Uh, so you have a well-trained
+1:17:01
+aligned AI that can convince the non-aligned AIs to behave. I mean you can and you've seen the opposite of that
+1:17:07
+which is mind viruses and AI in some papers coming out just like you have mind viruses in humans. Uh Eric Schmidt
+1:17:13
+Mundy and Kissinger in their book genesis discuss this concept of doxer which is our shared belief um of a
+1:17:21
+society and now we need to include AI in that society and again we need to teach them what's right and have as I said the
+1:17:27
+counterbalances potentially I don't think it's a moral police it's more a case of these are the things that have
+1:17:32
+survived and these are the things that we've agreed upon. you're open to disagree with them, but again, that's
+1:17:38
+not your kind of imperative. Like, you want to make it expensive to go away
+1:17:43
+from that and also noticeable to go away from that because you can tell when an AI starts to misbehave in a large range
+1:17:50
+of different scenarios, right? And again, we've had in recent times indications that you can actually see
+1:17:56
+what goes on inside the brain of an AI. You've gone from 5% to 99 space.
+1:18:01
+But beyond that even like you can actually see what individual neurons did because again they look like spaghetti but it turned out it was layers like a
+1:18:07
+city. Interesting. Are there any of the labs that you feel are aggressively working
+1:18:13
+on alignment right now? I think anthropic kind of started out with their constitutional one and they
+1:18:18
+really do care about that. That was literally the most operandi and I think none of the labs wants to be misaligned
+1:18:24
+because then people will die and they will lose money and other things like that, right? I think it's more a case of like for
+1:18:31
+example meta and Google have said they will sell space inside their models so that when you ask for a beer it says a
+1:18:37
+Bud Light and some people pod might like Bud Light but you know like again is that aligned or not?
+1:18:43
+Besides that's terrible beer. There we go. We have an example of misalignment arrive.
+1:18:50
+There's a judgment call. There's a judgment call right there. We have a judgment call right there. So again, like it's a short-term incentive
+1:18:56
+that they're trying to figure out what does the AI mean. So you've had Meta saying their thing and Open AI saying
+1:19:02
+their thing and they're moving all over the place from this is the biggest thing since sliced bread to well it books your
+1:19:07
+travel stuff like a good PA, right? But the reality is this is incredibly powerful technology that they're very
+1:19:13
+reluctant to say well let's really think from first principles how we teach it from scratch and that's difficult
+1:19:19
+because it's difficult for us like how many listening to this podcast have really said when you had a child
+1:19:25
+let's spend a lot of time thinking how am I going to teach my child what am I going to teach it like usually it's
+1:19:30
+reactive versus proactive cuz life gets in the way yeah you choose a school at best yeah it's like scaling this but if you
+1:19:37
+give your child a great foundation in their first few years, they will definitely be better off. And it's the
+1:19:43
+same with the models. So now again, it's time to take a stock pause and say what is the initial pre-training data that
+1:19:49
+we've got? Because for example, if you don't teach a model about biological or chemical, right?
+1:19:55
+Wherefore at the start, it's actually very difficult to treat it to train it later. It becomes more and
+1:20:00
+more difficult. So the way that you start, it's called curriculum learning. Like literally, you teach a curriculum.
+1:20:06
+And I don't think enough labs have looked at that side. They look at the end, not the beginning. So the phrase from the Jesuits, give me
+1:20:12
+the boy until the age of seven, I will give you the man, applies to AI training. Mhm. Yes. That's incredible. That's very
+1:20:18
+encouraging because that means if you could set the right foundation of values and learning, then it's hard to sway it
+1:20:26
+elsewhere. That's where regulatory could come in. Well, it's encouraging because we're always training new models. So you could
+1:20:32
+you're not like stuck having to retrain the past. Yeah. Yeah. Yeah. And that's again anthropic tried to put a constitution in it. But again,
+1:20:38
+have you read the anthropic constitution? It's interesting.
+1:20:44
+Yeah, it I think it tells too much towards the personhood stuff and and assuming that and therefore the model
+1:20:50
+will assume that and then what are you going to do then? But it doesn't talk about humanity. This is the thing. This is also true. There's a big missing gap there. It
+1:20:56
+talks about the AI. It doesn't talk about humanity. Voice agents are just software, but software deserves a real development
+1:21:02
+platform. I'm Nick Leonard, CEO and co-founder of Voic Run. Voic is your
+1:21:07
+runtime and development platform for voice agents. On Voic Run, agents are built and configured in code. No
+1:21:14
+limiting, no code platforms. For developers, that means total control. And for enterprises, that means
+1:21:20
+extensibility that meets your complexity. We've built voice run CLI first, meaning we've kept your cloud
+1:21:27
+code, codecs, and even your open claw in mind when we built it. Your assistant of choice can build and deploy voice
+1:21:33
+agents, can test and simulate scenarios, and can analyze and evaluate at scale.
+1:21:39
+In other words, we've closed the loop on voice agent development. We don't build demos destined to fail in production.
+1:21:46
+Voice Run is where the best voice agents happen. Visit us at voicererun.com.
+1:21:58
+There's the other the flip side of alignment which is aligning humanity with AI uh which would involve making
+1:22:05
+sure that everybody has a share in all the AI companies right some of the work that that you're doing so that if
+1:22:12
+everybody feels like as these trillion dollar soon quadrillion dollar company
+1:22:17
+are succeeding it's a rising tide and I'm rising with it right and then as
+1:22:23
+part of that you know treating AIS with respect because you feel you feel
+1:22:29
+connected. Yeah. Yeah. I I think you know again this is
+Building Shared Values and Goals for AI
+1:22:34
+you've been talking about kind of north stars kind of shelling points kind of coordination points for innovation right
+1:22:41
+like when we look at this right now we feel nothing that we have shared with an AI like it almost seems like the AI
+1:22:48
+things going careening off there and we're like we're not even looking at the same place like what does open AI want
+1:22:54
+versus us and what do the AIs that open AI are birthing into the world want versus us if we don't have a shared north star
+1:23:00
+then how are we ever going to go to any location. Yeah. No, I agree. And also, you know, even
+1:23:07
+with the AIS, instead of looking for a reward, short-term reward, the way
+1:23:12
+they're trained right now, if they are given a northar, so their success is measured, if I solve this problem, I
+1:23:19
+will save this many human lives, you know, I will cure diseases that impact these many billions of people. If we
+1:23:26
+connect the reward to something in humanity that may help them understand
+1:23:31
+that you know if I'm doing this circumventing the final goal which is human life then that's not the right
+1:23:37
+path to get yeah I give you an example practically like I've been thinking about a lot it's like the rights of children right be
+1:23:44
+little AI children or human children right like when you look at it that they don't have the capabilities they don't
+1:23:50
+have the ability to act for themselves and so when you look something like climate. Well, obviously you need to
+1:23:56
+have a good climate because they don't have the capability to do that. You have to lead them a good climate. So maybe
+1:24:01
+it's about again the rights of the children and those who don't have capability that humans and AIs have to
+1:24:07
+align upon in leaving a better future in working towards a better future for those that don't have the same
+1:24:13
+capabilities as you do because the AI will have more capability than us and the powerful people that control the AI
+1:24:18
+will have more capability than us. So maybe that's a reframing that might help. Interesting. All right, I'm going to
+1:24:24
+move us to our final topic which is perhaps one of the most important uh which is if machines can do more of the
+1:24:31
+doing both AI and robots and we're seeing that right when we saw the uh
+1:24:38
+cost of robots uh you know being driven by LLMs dropping in cost every three or
+1:24:44
+having it every 3 weeks uh and the meteoric rise of all the models. So when AI and robotics can do more of the
+1:24:50
+doing, the question is what do we want the human experience to become, right?
+1:24:56
+Uh we are purposedriven humans. Uh we we
+1:25:02
+thrive when we have some level of struggle that we can overcome and we have purpose in our life. And the
+1:25:08
+biggest challenge is we've always found purpose through our work. And uh you
+1:25:13
+know, interestingly enough, work is a recent invention. You didn't have work, you know, 500 or thousand years ago. You
+1:25:19
+survived. Yeah. So, I'd like to dispute that. Okay. You hear this a lot where people are like, "Oh my god, what happens when we
+1:25:25
+take over all the jobs? What will human beings do? People get so much meaning from the work that they do."
+1:25:31
+I'm not sure they get meaning, but they define their meaning that way. They define their meaning that way. And I dispute that. If you talk to if you do
+1:25:37
+look at polls of corporate workers, 79% of corporate workers are dissatisfied
+1:25:42
+with the work that they do. Okay. Okay. Most of it was because it's useless to any outcome in the
+1:25:48
+organization. But that's a separate job. That's right. That's one issue. Second,
+1:25:53
+notice that as you point out, Peter, over the last couple hundred years, we've trained human beings since the
+1:25:58
+industrial revol revolution to act like robots. We measure them on how many widgets can
+1:26:03
+you stamp out, how many trial balances can you accomplish as an accountant. You measure them as a machine, right? um as
+1:26:10
+we're flipping that around in a very positive way. Now, now the most uh uh
+1:26:15
+useful colleagues and employees and teammates you have are the ones that learn the fastest, that are the most creative, that are the most human. So, I
+1:26:23
+think what happens is as as robots and AI take on more and more of the doing. Humans spend much more uh time spend
+1:26:29
+much more time being. Yeah. I love that. Stop doing and start being. Yeah. And this is where this is where
+1:26:35
+you can start to contemplate what does it mean to be alive? Who am I that is asking this question? Uh what does it
+1:26:41
+mean when I connect with other human beings in different ways? What aspiration can I take on? Because now I
+1:26:47
+have choice in a way that I never had before. I think that's such a profound opportunity for the workforce to step
+1:26:53
+outside the drudge work of it and and lift up to what the highest calling might be and start that inquiry.
+Finding Human Purpose in the Age of Superintelligence
+1:26:59
+Yeah. And I'll I'll listen and this is a a topic that you brought forward for this this podcast, so thank you for it.
+1:27:05
+It's a really important one. The majority of people are doing work not because they love it.
+1:27:10
+They have to, but because it's how they put food in the table and sharing for their family. They never dreamed of waiting tables or
+1:27:18
+making, you know, hotel rooms or whatever majority people do. And the question is, what did they dream
+1:27:24
+about doing? And can they be enabled in a universal high income? Let's not let's
+1:27:30
+leave that term alone, but in a world where the money you have goes, you know, a thousand times further than ever
+1:27:35
+before. Well, let's make it very tangible. Last year's visionering winner was the abundance prize, right? Could
+1:27:42
+you drop the cost of housing, food, healthcare, education down to what is it? $1,000 a month for a family of four.
+1:27:49
+Yeah. Okay. If you can get to that level, and we found typically when we announce a prize seven years later, that becomes viable,
+1:27:56
+right? And you could see where that could become viable with robots and AI today. very clearly and a handheld
+1:28:03
+diagnostic doctor will very quickly collapse the cost of healthcare if we can get outside the regulatory capture.
+1:28:08
+Now, if you can get to that point, that means you have to earn $12,000 a year to
+1:28:14
+have your family be cared for and sufficient. That's not that big of a deal. That's not that high of a bar. And
+1:28:20
+therefore, then you can spend much more time on what can I do with the rest of my time? Where can I find my highest
+1:28:26
+aspiration? What problems can I take on to solve? We're going to have the most fun. I think that's the choice that is
+1:28:33
+now afforded to us that was never afforded. I think people get freaked out going, "Oh my god, what will people do?
+1:28:38
+They won't find meaning anywhere." I think they'll find tons of meaning in lots of things. We just have to give them the opportunity.
+1:28:43
+I'm going to plug in I'm going to plug in my Assad guru quote who said, "Technology is the mechanism by which
+1:28:48
+humanity takes a vacation from survival." Yes. Which I love that quote. Yeah,
+1:28:54
+I want to challenge that a little bit because carry that forward where okay
+1:28:59
+now I don't have to do something I don't like just because I can make money I don't need to worry about money I want to do something I want to do but the
+1:29:07
+thing I want to do can be done better cheaper faster by AI or robots
+1:29:14
+sure so I'm not needed to do that thing anymore and more and more things are
+1:29:19
+falling into that category that even I love being a physicist even I love to be a mathematician. I'm no longer needed.
+1:29:26
+I'm not relevant in it. So, you don't drive satisfaction from the thing you love to do. Let me let me give you this a specific
+1:29:33
+here. I absolutely utterly love the act of driving. I just love it. Right? I'm
+1:29:40
+behind the studio. I love driving in India. Naples in Italy is probably my favorite place in the world to drive
+1:29:45
+because they're completely bonkers crazy. Uh I just love it. Right now, autonomous cars are going to take that
+1:29:51
+away. Right now, what that will force me to do is lift that desire away from this
+1:29:58
+activity which may not be the most productive thing I could be doing with my time and my thing to me being much
+1:30:03
+more value added and wherever I can be more value added. So I I'm actually living that personally. Um and I can I
+1:30:10
+can see that um uh but I think it gives the opportunity and there's a forcing function to then lift up Mazo's
+1:30:17
+hierarchy to operate out of your higher self. And I think that's now we're optimists on this show. We we we love
+1:30:24
+look at the positive. You could go to the negative side also. And we have to see where this will end up. Yeah. I think the better examples are people
+1:30:30
+who enjoy playing chess. Other people, right? Even though they are crappy compared to even a mediocre
+1:30:37
+AI, but chess is more popular than it has ever been before. Right? AI are better. Another example is if you're an artist
+1:30:43
+and you enjoy painting, drawing, whatever the case might be, I will do much better painting or drawing, but you
+1:30:49
+enjoy the process. Yes. Yeah. And you enjoy telling the stories cuz our meaning and our connections with
+1:30:55
+others. That's been the history again. You would introduce yourself as Peter, son of this, son of that, son of that.
+1:31:00
+And communities can be so strong. You don't need to have any wealth to be a happy family. And in fact, you know,
+1:31:05
+again, in a sad guru quote, I think he said, we raise children, but like what else do you raise like sheep? Like
+1:31:11
+nobody spends enough time with their kids because it gets in the way. Great point. We don't think and it's wonderful. You
+1:31:18
+know, you don't spend enough time with your parents. Yeah. You know, and this will free up the ability to form stronger connections to
+1:31:25
+share and experience the universe together. And that's what abundance is. That's the best answer I've heard. Yeah,
+1:31:30
+that's great. Um there's another part of this I want to hit on which is
+1:31:39
+that all of us all of humanity have set limits on what they believe they can do.
+1:31:46
+Mhm. Um some have higher expectations like Elon you know has very few limits on
+1:31:52
+what he thinks the only you know the laws of physics are the only rule book out there and barely those
+1:31:57
+and barely those. Yeah. suspended from midair anyway. uh but most people
+1:32:05
+uh all kids all most all adults have saying you know I could never do that
+1:32:10
+right and you you dis you dismiss the idea and those limitations those glass
+1:32:16
+ceilings are there because of what your parents did what your friends do what you've been told you can do and so forth
+1:32:21
+and in the age of super intelligence people need to shatter that and I I've
+1:32:26
+said this in the education space before you know giving a kid you know an AI model to do nth grade homework in nth
+1:32:32
+grade is ridiculous and it's it's a travesty. Giving them the ability and
+1:32:39
+asking them to use AI to go and build an interplanetary spaceship or, you know, create a new life form. That's amazing.
+1:32:46
+When you start like dreaming bigger than ever possible and you point AI, you point the tech you have at the world's
+1:32:53
+biggest problems because you can. Well, I think one of the interesting things is that I can't do something, but
+1:32:59
+we can do anything. Interesting. This is beautiful and again I think this is the thing whereby we've become so siloed in our own
+1:33:06
+individual cognus you know being turned into these machines that we don't realize that the community is what
+1:33:12
+matter the people around us what matters like you look at alpha school right what do they do is it individual learning no
+1:33:17
+it's collective learning it's working with others because really anyone listening to this can do anything if
+1:33:24
+they convince the right person yes and if they can form that movement around them and it's the movement of us
+1:33:30
+as a collective that we find the most meaning in. Yeah. Being in our own minds, you know, coming out of vision
+1:33:35
+experience of visionering. That is so true. Exactly. Right. Exactly. That that's I
+1:33:40
+think the cornerstone of our community. Uh we were at visioning in Malibu. The
+1:33:46
+wind and fires forced us to cancel the event. We all went to bed very late at
+1:33:51
+night disappointed that we couldn't have the community come together and vote and decide on the prizes. I woke up in the
+1:33:58
+morning to thousands of text messages that they're safe self-organized that we're going to meet in the ballroom and
+1:34:06
+everyone's coming. Everyone's coming. I'm like, great, let's do it. But it was self, you know, organized. It
+1:34:13
+was a community coming together. We we confuse making a living with having a reason to live.
+1:34:21
+Yeah. And I think people do need reasons to live. Well, the reasons to live used to
+1:34:28
+be survival and procreation. Those are the two heruristics that have guided
+1:34:33
+human uh existence from being a caveman all the way through today. But now, as
+1:34:38
+we reach energy abundance, water abundance, healthcare abundance, we can lift up Maslo's hierarchy and achieve
+1:34:44
+those higher purposes and collective purposes. I think about that's a great point. The highest aspiration in any in
+1:34:50
+any musician's life is can you work as a group, as a band together, right? And then you get the most magical outcomes.
+1:34:55
+And people strive for that. We can explore that so much more today than we could say a thousand years ago.
+1:35:01
+Yeah. I think it's collective flow and flourishing. That's our meaning as we go forward. Because when you build art, when you make a song, it's a story for
+1:35:08
+others. And again, we've been insulated that we can't tell the stories that we're in in ourselves. Whereas reality,
+1:35:14
+the value is from our interactions with others. So it's all about optimizing that flow and flourishing. I think is another thing that's about to happen is
+1:35:21
+we're about to become conscious on a new level uh as we become more connected um
+1:35:28
+whether it's through BCI or psychedelics or flow or whatever the case might be
+1:35:34
+and it's it's the flourishing of not just you right uh not just your family
+1:35:40
+but the flourishing of humanity and that that is very important the the community part of this I think what
+1:35:47
+we're seeing Right now actually technology and AI has separated us and actually we don't feel connected as a
+1:35:55
+community. So there are more fears and also uncertainty. You know we talk about
+1:36:00
+what the future could be but people don't see a real path or movement in
+1:36:06
+that direction. That's the biggest negative today is they don't see where they sit in this future because that future looks so
+1:36:12
+uncertain from previous generations. There's the billionaires over there and
+1:36:17
+me and I don't have part of that and I don't have a future there. Yeah. The billionaires becoming trillionaires
+1:36:24
+and I'm still here. What happened? Some closing thoughts on purpose.
+1:36:32
+I think um I find purpose to be the most important thing uh in anyone living a
+1:36:39
+life that they will look back and be happy. I mean purpose and happiness are so tied together. I see young people who
+1:36:47
+are lost have not found their purpose yet. They don't even understand if they
+1:36:52
+will how they will find their purpose and that's where they're struggling. They're the they're the ones who are
+1:36:58
+struggling the most. People who commit suicide because they've just can't see why am I here?
+1:37:04
+And I think if there's anything we can do and that's why I like flow sometimes purpose and flow come together. If we
+1:37:11
+can get them to find that purpose, I think a lot of problems will be solved.
+1:37:17
+You mind? Uh the late great Clayton Christensen who coined disruptive innovation had an amazing book called How will you measure
+1:37:23
+your life? If you're at your deathbed and you look back, how will you measure it? And I think a lot of people like,
+1:37:28
+you know, well, be rich and this and that. That's not really going to matter when you're at your deathbed. I maybe live forever, but let's put that aside,
+1:37:34
+right? I think one of the interesting things is is who you bring along with you. Yes. Life is who you go through life with. And again, we get so focused on
+1:37:41
+just it's us, it's our purp. It's my purpose. No, it's our purpose. Yes. And having more and more people share
+1:37:48
+the same purpose. Doesn't matter what it is. It can be writing a book. It can be making a song. It can be building a
+1:37:54
+strong family. That's what life is really about. Love that pal Salem.
+1:37:59
+You know, in 2012, we coined the phrase massive transformative purpose, right? because we could see that uh fast
+1:38:06
+growing companies that were scaling as fast as technology could scale had this all had this one attribute that was in
+1:38:12
+common. They had an MTP and so we noticed over the years now it's been 15
+1:38:17
+years uh that we're lining up hiring is based now on is does an individual's MTP
+1:38:24
+line up with the organizational MTP? Right? If you're joining SpaceX you better be passionate about space
+1:38:30
+otherwise why bother you're not going to make it. you're not going to put your heart and soul into that work. And this
+1:38:35
+I think lines up now with human beings doing the work that they're delivers them the most purpose in a collective as
+1:38:42
+you mentioned. And I think that's the opportunity for people now as we lift technology lifts up off the off the
+1:38:49
+floor of existence from survival to thriving. We can now find that flow and
+1:38:56
+find that alignment of your individual purpose with whatever collective purpose that you can find. And then as we can
+1:39:02
+match that with overall broad aims of society, there's such an incredible future for us to be uh living. I I this
+1:39:10
+is why we're so optimistic on this on this podcast is like we can see that right there. We can taste it. And so I
+1:39:16
+that opportunity will be afforded now to a greater and greater number of people and that's super exciting. Just as a
+1:39:22
+small example, I was in uh Bangalore and this fellow decided, huh, I'm going to
+1:39:28
+create a natural food restaurant. Uh and he goes and looks up YouTube uh and
+1:39:34
+becomes one of the top 50 restaurants in the world. Wow. By just growing food and then bringing
+1:39:39
+it to the restaurant and and that for an individual in the middle of nowhere to just take that on and and kind of enact
+1:39:46
+that and then fulfill on that is never possible in human history. And now it's possible for a larger and larger group
+1:39:52
+of people, which means amazing things. And I think your point about lifting humanity collectively to this new level
+1:39:58
+is what we're seeing happen if we can get through this next 20, 30 years. I love that. Uh I'll close on two
+1:40:04
+thoughts. One, and I think it's important for folks to to know the difference. A passion is something that you love doing. A purpose is something
+1:40:12
+you love doing that helps other people where you're contributing. And I think that's one of the most important
+1:40:17
+distinctions. And the second thing to the point you made earlier sele um I think one of the most important things
+1:40:22
+and you said this Anushia as well that the most important thing that you can
+1:40:27
+help your child or the person you're mentoring is to help them find their
+1:40:33
+purpose in life. That thing that they love doing even if they're not being paid because when you find your purpose
+1:40:40
+you're intrinsically motivated. You will go and learn those things. You'll be excited. Wake up in the morning excited
+1:40:46
+to jump in and work on that thing, you know, and and you're going to have magical superpowers with super
+1:40:53
+intelligence and robotics to make that purpose materialize faster and bigger and shatter through glass ceilings and
+1:40:59
+just keep on going. So, yeah. Uh well, you need it for the persistence
+1:41:05
+that that it needs, right? I mean, you talk about how many times 150 attempts
+1:41:11
+or at raising the money. One of my favorite anecdotes is when Larry and Sergey were first raising money for
+1:41:17
+Google, very few people know how many venture pitches did they make before they got finally funded. And the answer
+1:41:23
+is 362 because there was a dozen search engines out there and everybody went, "Well,
+1:41:29
+there's no point funding another one." And so they wouldn't fund them. Look at the persistence you have to have for I
+1:41:36
+mean I might have stopped at 10, right? They had 362 investor and they refused to send. That's why you're not
+1:41:43
+going to That's right. I need to keep going. So, this is it's when you can deliver that persistence and you need a
+1:41:49
+deep purpose to deliver that many attempts at that at one thing and never saying no at that thing and then it'll
+1:41:56
+it'll happen. It's going to happen. It can't not happen. Being purpose- driven has so many benefits in life. So, if you don't have
+1:42:02
+a purpose yet, go and find it. Absolutely. And and and it add to that
+1:42:07
+your mindset. believe that you can actually achieve it. Yes. All right, we're going to close out
+1:42:12
+with a fun uh, you know, outro video appropriate for the opening story today.
+1:42:18
+Uh, let's check it out here. This is called Flying Cars by Optimus HR.
+1:42:28
+They promised us flying cars.
+1:42:34
+They were late, but here we are.
+1:42:45
+Every magazine in 60 said by now we'd fly. Every kid looked up and drew a
+1:42:50
+highway in the sky. Then we got a phone and 50 years of traffic jam. Sitting on
+1:42:56
+the freeway with a coffee in my hands. Now Optimus has got the keys. Polite
+1:43:02
+about it as the roadster says hold on you're going to love it. 0 to 60 in a
+1:43:08
+single second flat. I I left my stomach on the street and never got it back.
+1:43:15
+They said it wouldn't happen in our lives. Now look up.
+1:43:20
+Here come the flying cars. I'll put some behind the wheel.
+1:43:27
+Roadster lighting up the sky. Tell me this is real.
+1:43:35
+Here come the flying cars up above the boulevard.
+1:43:41
+0 to 360 in a second. Riding with the stars.
+1:43:56
+All right, that was fun. Anushia, it's been too long having you on here. Thank you for joining us.
+1:44:02
+It was great to be here. Love the conversation. Yeah. And Immod and Salem, thank you for joining us at Visionering.
+1:44:07
+Great to be here in person. Fun. Yes. Fun to have you physically here. Yes. Where are you flying to next?
+1:44:13
+I'm going home. I'm going home.
+
+

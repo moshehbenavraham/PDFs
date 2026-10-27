@@ -1,0 +1,22 @@
+Title:           Scanned Image
+Subject:         Scanned Image
+Keywords:        
+Author:          NAPS2
+Creator:         NAPS2
+Producer:        PDFsharp 1.50.4000-netstandard (https://github.com/ststeiger/PdfSharpCore)
+CreationDate:    Tue Oct 27 19:29:24 2026 Jerusalem Standard Time
+ModDate:         Tue Oct 27 19:29:24 2026 Jerusalem Standard Time
+Custom Metadata: no
+Metadata Stream: yes
+Tagged:          no
+UserProperties:  no
+Suspects:        no
+Form:            none
+JavaScript:      no
+Pages:           3
+Encrypted:       no
+Page size:       595.276 x 841.89 pts (A4)
+Page rot:        0
+File size:       195133 bytes
+Optimized:       no
+PDF version:     1.7

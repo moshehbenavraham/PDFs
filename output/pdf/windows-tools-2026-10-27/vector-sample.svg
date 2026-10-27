@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297">
+<rect width="210" height="297" fill="white"/>
+<rect x="20" y="20" width="170" height="12" fill="#164e63"/>
+<text x="20" y="55" font-family="Arial" font-size="9">Vector PDF export test</text>
+<text x="20" y="70" font-family="Arial" font-size="5">Searchable text and scalable artwork</text>
+<circle cx="65" cy="118" r="28" fill="#0e7490"/>
+<path d="M115 90 L175 145 L115 145 Z" fill="#e7a53d"/>
+<text x="20" y="180" font-family="Arial" font-size="5">Windows Inkscape verification</text>
+</svg>
