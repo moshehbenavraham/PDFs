@@ -1,0 +1,20 @@
+20-MINUTE PACING (references excluded)
+
+How Anthropic builds with AI: 40 seconds
+What changed inside Claude Code: 55 seconds
+The engineering loop: 60 seconds
+Tasks worth delegating: 60 seconds
+A brief an agent can execute: 85 seconds
+Proof of completion: 70 seconds
+Context that survives the session: 65 seconds
+Parallel work with one owner: 65 seconds
+Review that converges: 75 seconds
+Human approval follows risk: 80 seconds
+Autonomy needs enforced limits: 65 seconds
+A release path built for recovery: 70 seconds
+Prompts and reviewers need regression tests: 75 seconds
+Humans own system-level judgment: 65 seconds
+Bottlenecks move beyond coding: 65 seconds
+A scorecard for useful throughput: 70 seconds
+A two-week pilot: 85 seconds
+The next task is the starting point: 50 seconds

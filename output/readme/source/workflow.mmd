@@ -1,0 +1,26 @@
+flowchart LR
+    research["Research<br/>Briefs + citations"]
+
+    subgraph project["output / project-name"]
+        source["Project workspace<br/>Sources + assets"]
+        author["Author + export<br/>Windows / WSL"]
+        source --> author
+    end
+
+    review{"Verify<br/>the output"}
+    share["Share<br/>PDF · PPTX · HTML"]
+
+    research --> source
+    author --> review
+    review -->|Revise| source
+    review -->|Ready| share
+
+    classDef brief fill:#f7f0e4,stroke:#ad8e64,color:#183344,stroke-width:2px;
+    classDef workshop fill:#17364a,stroke:#17364a,color:#ffffff,stroke-width:2px;
+    classDef check fill:#eaf2ef,stroke:#49766d,color:#183e35,stroke-width:2px;
+    classDef publish fill:#bd7755,stroke:#945334,color:#ffffff,stroke-width:2px;
+    class research,source brief;
+    class author workshop;
+    class review check;
+    class share publish;
+    style project fill:#faf8f3,stroke:#c6b99f,color:#183344

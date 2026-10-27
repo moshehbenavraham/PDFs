@@ -1,0 +1,206 @@
+{
+  "duration_seconds": 1200,
+  "size_points": [
+    960,
+    540
+  ],
+  "slides": [
+    {
+      "title": "How Anthropic builds with AI",
+      "seconds": 40,
+      "sources": [],
+      "start_seconds": 0
+    },
+    {
+      "title": "What changed inside Claude Code",
+      "seconds": 55,
+      "sources": [
+        "1"
+      ],
+      "start_seconds": 40
+    },
+    {
+      "title": "The engineering loop",
+      "seconds": 60,
+      "sources": [
+        "1",
+        "2",
+        "6"
+      ],
+      "start_seconds": 95
+    },
+    {
+      "title": "Tasks worth delegating",
+      "seconds": 60,
+      "sources": [
+        "3"
+      ],
+      "start_seconds": 155
+    },
+    {
+      "title": "A brief an agent can execute",
+      "seconds": 85,
+      "sources": [
+        "1",
+        "3"
+      ],
+      "start_seconds": 215
+    },
+    {
+      "title": "Proof of completion",
+      "seconds": 70,
+      "sources": [
+        "1",
+        "3"
+      ],
+      "start_seconds": 300
+    },
+    {
+      "title": "Context that survives the session",
+      "seconds": 65,
+      "sources": [
+        "1"
+      ],
+      "start_seconds": 370
+    },
+    {
+      "title": "Parallel work with one owner",
+      "seconds": 65,
+      "sources": [
+        "6",
+        "1"
+      ],
+      "start_seconds": 435
+    },
+    {
+      "title": "Review that converges",
+      "seconds": 75,
+      "sources": [
+        "1"
+      ],
+      "start_seconds": 500
+    },
+    {
+      "title": "Human approval follows risk",
+      "seconds": 80,
+      "sources": [
+        "1"
+      ],
+      "start_seconds": 575
+    },
+    {
+      "title": "Autonomy needs enforced limits",
+      "seconds": 65,
+      "sources": [
+        "4",
+        "6"
+      ],
+      "start_seconds": 655
+    },
+    {
+      "title": "A release path built for recovery",
+      "seconds": 70,
+      "sources": [
+        "1"
+      ],
+      "start_seconds": 720
+    },
+    {
+      "title": "Prompts and reviewers need regression tests",
+      "seconds": 75,
+      "sources": [
+        "1",
+        "5"
+      ],
+      "start_seconds": 790
+    },
+    {
+      "title": "Humans own system-level judgment",
+      "seconds": 65,
+      "sources": [
+        "2",
+        "1"
+      ],
+      "start_seconds": 865
+    },
+    {
+      "title": "Bottlenecks move beyond coding",
+      "seconds": 65,
+      "sources": [
+        "2"
+      ],
+      "start_seconds": 930
+    },
+    {
+      "title": "A scorecard for useful throughput",
+      "seconds": 70,
+      "sources": [
+        "1"
+      ],
+      "start_seconds": 995
+    },
+    {
+      "title": "A two-week pilot",
+      "seconds": 85,
+      "sources": [
+        "1",
+        "3"
+      ],
+      "start_seconds": 1065
+    },
+    {
+      "title": "The next task is the starting point",
+      "seconds": 50,
+      "sources": [
+        "1",
+        "2",
+        "3"
+      ],
+      "start_seconds": 1150
+    },
+    {
+      "title": "Sources for the playbook",
+      "seconds": 0,
+      "sources": [],
+      "start_seconds": 1200
+    },
+    {
+      "title": "Sources and evidence limits",
+      "seconds": 0,
+      "sources": [],
+      "start_seconds": 1200
+    }
+  ],
+  "sources": {
+    "1": {
+      "title": "How the Claude Code team does code review",
+      "date": "15 October 2026",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/"
+    },
+    "2": {
+      "title": "Redesigning source control at Anthropic",
+      "date": "13 October 2026, updated 15 October",
+      "url": "https://www.anthropic.com/research/redesigning-source-control"
+    },
+    "3": {
+      "title": "How Anthropic teams use Claude Code",
+      "date": "24 July 2025",
+      "url": "https://claude.com/resources/articles/how-anthropic-teams-use-claude-code"
+    },
+    "4": {
+      "title": "Making Claude Code more secure and autonomous",
+      "date": "20 October 2025",
+      "url": "https://www.anthropic.com/research/claude-code-sandboxing"
+    },
+    "5": {
+      "title": "An update on recent Claude Code quality reports",
+      "date": "23 April 2026",
+      "url": "https://www.anthropic.com/research/april-23-postmortem"
+    },
+    "6": {
+      "title": "Introducing Claude Tag",
+      "date": "23 June 2026",
+      "url": "https://www.anthropic.com/news/introducing-claude-tag"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+Use case: stylized-concept.
+Asset type: a finished ultra-wide 3:1 GitHub README header banner, ideally 2400 x 800 pixels.
+Primary request: create a striking editorial cover for the repository named PDFs, a collection of research-driven documents and presentations about AI consciousness, technology moonshots and practical AI-assisted engineering.
+Scene and subject: a beautifully composed paper-and-brass publishing atelier. A sculptural stack of cream paper and floating presentation panels unfolds into three restrained visual motifs: a translucent human-profile mask suggesting machine consciousness, an orbital moon arc suggesting ambitious futures, and a precise architectural pathway with tiny geometric blocks suggesting engineering and verification. These motifs belong to one coherent still-life, not a collage of unrelated scenes. Fine diagram lines and page edges connect the research to the finished pages.
+Style: sophisticated science magazine cover meets tactile architectural model, realistic paper grain, frosted glass, brushed brass and terracotta. Elegant, deliberate, visually rich but uncluttered.
+Palette: ink navy, warm ivory, muted terracotta and small brass highlights, echoing the project's existing presentation art. Soft directional studio light, warm depth, sharp focal detail.
+Composition: panoramic banner with safe margins and strong hierarchy readable when reduced to a 900px-wide README. Clear oversized editorial typography integrated into the negative space, with the illustrative publishing scene occupying the remaining area. All elements stay within the frame.
+Text, verbatim and only: large title "PDFs"; smaller descriptor "DOCUMENTS / PRESENTATIONS / SOURCE". Render lettering exactly, cleanly and legibly. No other labels, slogans, logos, watermarks, user names, claims, or random code.
+Output: finished professional raster header, opaque background, no browser frame or interface mockup.
