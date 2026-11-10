@@ -1,7 +1,7 @@
 ![PDFs — documents, presentations and source; a paper atelier exploring machine minds, moonshots and engineering.](output/readme/assets/header.png)
 
 <p align="center">
-  <a href="#the-collection"><img alt="Library: 3 presentations" src="https://img.shields.io/badge/Library-3_presentations-17364a?style=for-the-badge" /></a>
+  <a href="#the-collection"><img alt="Library: 3 presentations and 2 guides" src="https://img.shields.io/badge/Library-3_presentations_%2B_2_guides-17364a?style=for-the-badge" /></a>
   <a href="#the-collection"><img alt="Exports: PDF, PPTX and HTML" src="https://img.shields.io/badge/Exports-PDF_%7C_PPTX_%7C_HTML-bb7653?style=for-the-badge" /></a>
   <a href="output/"><img alt="Sources: editable" src="https://img.shields.io/badge/Sources-editable-315d59?style=for-the-badge" /></a>
   <br />
@@ -14,11 +14,11 @@
 
 # PDFs
 
-A collection of research-led presentations and the workshop behind them: editable sources, original artwork, finished documents and verification records.
+A collection of research-led presentations and guides, and the workshop behind them: editable sources, original artwork, finished documents and verification records.
 
-Explore machine consciousness, ambitious technology futures and practical AI-assisted engineering. Open a finished deck, follow its sources, or use the same Windows + WSL workflow to make something new.
+Explore machine consciousness, ambitious technology futures, practical AI-assisted engineering and the design of multi-agent systems. Open a finished document, follow its sources, or use the same Windows + WSL workflow to make something new.
 
-**[Explore the collection](#the-collection) · [See the workflow](#from-research-to-a-finished-document) · [Start a project](#start-a-project) · [Read the operating guide](AGENTS.md)**
+**[Explore the collection](#the-collection) · [Try the agent skill](#agent-skill-graph-orchestrator) · [See the workflow](#from-research-to-a-finished-document) · [Start a project](#start-a-project) · [Read the operating guide](AGENTS.md)**
 
 ## The collection
 
@@ -48,7 +48,39 @@ Briefs, task selection, verification, review and the human decisions that matter
 
 **[View PDF](output/anthropic-ai-engineering/how-anthropic-builds-with-ai.pdf)** · [Editable source & artwork ZIP](output/anthropic-ai-engineering/editable-source-and-artwork.zip) · [Build instructions](output/anthropic-ai-engineering/source/README.txt) · [Slide plan](output/anthropic-ai-engineering/source/slide-plan.json)
 
+### 04 · Graph Engineering
+
+**From agent loops to wired systems · two guides · 28 and 24 pages**
+
+What comes after the single agent loop: nodes, edges, state and contracts, six reusable patterns, a worked "ship a feature" graph, the evidence and its costs, and a loop-or-graph decision table. Written for agentic coders, with everything on the page. The field guide is the fuller reference; the visual guide gives one idea per page with original illustrations. Both draw on three research briefs from October and November 2026, kept in [`input/`](input/), and quote figures as their sources report them.
+
+**[Field guide PDF](output/graph-engineering/graph-engineering-field-guide.pdf)** · **[Visual guide PDF](output/graph-engineering/graph-engineering-visual-guide.pdf)** · [Field guide source](output/graph-engineering/source/) · [Visual guide source](output/graph-engineering/visual-source/) · [Illustrations](output/graph-engineering/visual-assets/)
+
+[Field guide build instructions](output/graph-engineering/source/README.txt) · [Visual guide build instructions](output/graph-engineering/visual-source/README.txt)
+
 > To use the offline HTML presentation, download it and open it in a browser. GitHub displays the file's source rather than hosting the presentation.
+
+## Agent skill: graph-orchestrator
+
+A working companion to the Graph Engineering guides. It is a small skill, mostly plain instructions, that makes a coding agent plan large tasks as a dependency graph: fan independent work out to subagents, consolidate in layers, verify in a fresh context, and stop for human approval before anything irreversible.
+
+- **Where it lives:** [`.agents/skills/graph-orchestrator/`](.agents/skills/graph-orchestrator/) is the copy to edit. [`.claude/skills/graph-orchestrator/`](.claude/skills/graph-orchestrator/) is an identical mirror, so Claude Code loads the skill automatically when it is opened in this repository.
+- **Start with:** [SKILL.md](.agents/skills/graph-orchestrator/SKILL.md), then the [worked example](.agents/skills/graph-orchestrator/references/best-practices.md).
+- **Origin:** a modified copy of the MIT-licensed [VineeTagarwaL-code/graph-engineering](https://github.com/VineeTagarwaL-code/graph-engineering). Every difference is listed in [CHANGES.md](.agents/skills/graph-orchestrator/CHANGES.md).
+
+The skill includes a checker for its machine-readable plan format. It needs only Python 3, reads a JSON file and prints findings; it does not run plans.
+
+```bash
+cd .agents/skills/graph-orchestrator
+python3 scripts/validate_plan.py references/example-plan.json
+python3 scripts/test_validate_plan.py
+```
+
+After editing the `.agents` copy, mirror it again:
+
+```bash
+rm -rf .claude/skills/graph-orchestrator && cp -r .agents/skills/graph-orchestrator .claude/skills/
+```
 
 ## From research to a finished document
 
@@ -97,6 +129,8 @@ mkdir -p output/my-project/{source,assets,exports}
 - **`assets/`** — artwork, images and any redistributed fonts with their licenses.
 - **`exports/`** — finished PDFs, slide decks, browser editions and bundles.
 - **`.build/`** — local intermediates and temporary renders; ignored by Git.
+
+Supplied research and other raw inputs go in [`input/`](input/) and are kept unaltered.
 
 Existing projects retain their established layouts. The Moonshots PDF lives in [`output/pdf/`](output/pdf/), while its source and artwork live in [`output/moonshots-tomorrow/`](output/moonshots-tomorrow/).
 
