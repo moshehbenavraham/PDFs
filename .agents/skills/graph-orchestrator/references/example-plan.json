@@ -1,0 +1,110 @@
+{
+  "goal": "Audit all 60 endpoint handlers for auth issues and email the verified critical findings to the security lead",
+  "nodes": [
+    {
+      "id": "read_middleware",
+      "description": "Read the shared auth middleware and write the rubric for what correct auth looks like here",
+      "inputs": [],
+      "outputs": ["auth_defaults", "rubric"],
+      "executor": "inline"
+    },
+    {
+      "id": "audit_endpoint",
+      "description": "Read one endpoint handler and classify its auth posture against the rubric",
+      "inputs": ["read_middleware.auth_defaults", "read_middleware.rubric"],
+      "outputs": ["endpoint_id", "auth_mode", "severity", "evidence"],
+      "cardinality": 60,
+      "executor": "subagent",
+      "tier": "standard"
+    },
+    {
+      "id": "summarize_batch",
+      "description": "Merge 20 endpoint audits into one batch summary that keeps paths, severities and evidence",
+      "inputs": ["audit_endpoint"],
+      "outputs": ["batch_id", "received_count", "missing_ids", "findings"],
+      "cardinality": 3,
+      "executor": "subagent",
+      "tier": "fast"
+    },
+    {
+      "id": "cluster_findings",
+      "description": "Cluster the three batch summaries by issue type",
+      "inputs": ["summarize_batch"],
+      "outputs": ["clusters", "received_count", "missing_ids"],
+      "executor": "inline"
+    },
+    {
+      "id": "prioritize",
+      "description": "Rank the clusters into a remediation plan",
+      "inputs": ["cluster_findings.clusters"],
+      "outputs": ["remediation_plan", "critical_findings"],
+      "executor": "inline"
+    },
+    {
+      "id": "verify_critical",
+      "kind": "verification",
+      "description": "Re-derive each critical finding from the handler source, without seeing the synthesis",
+      "inputs": ["prioritize.critical_findings"],
+      "outputs": ["confirmed", "refuted", "unverifiable"],
+      "executor": "subagent",
+      "tier": "strongest"
+    },
+    {
+      "id": "draft_email",
+      "description": "Draft the email from the confirmed critical findings only",
+      "inputs": ["verify_critical.confirmed", "prioritize.remediation_plan"],
+      "outputs": ["recipient", "subject", "body"],
+      "executor": "inline"
+    },
+    {
+      "id": "approve_send",
+      "kind": "human_approval",
+      "description": "Show the human the exact email, its one recipient and that it cannot be recalled",
+      "inputs": ["draft_email"],
+      "outputs": ["decision", "reason"],
+      "executor": "inline"
+    },
+    {
+      "id": "send_email",
+      "description": "Send the approved email",
+      "irreversible": true,
+      "inputs": ["approve_send.decision", "draft_email"],
+      "outputs": ["message_id"],
+      "executor": "inline"
+    }
+  ],
+  "edges": [
+    { "from": "read_middleware", "to": "audit_endpoint", "reason": "Each handler is classified relative to the middleware defaults and the rubric" },
+    { "from": "audit_endpoint", "to": "summarize_batch", "reason": "A batch summary reads 20 audits" },
+    { "from": "summarize_batch", "to": "cluster_findings", "reason": "Clustering reads all three batch summaries" },
+    { "from": "cluster_findings", "to": "prioritize", "reason": "Prioritization ranks the clusters" },
+    { "from": "prioritize", "to": "verify_critical", "reason": "Verification checks the findings marked critical" },
+    { "from": "verify_critical", "to": "draft_email", "reason": "Only confirmed findings go into the email" },
+    { "from": "prioritize", "to": "draft_email", "reason": "The email quotes the remediation plan" },
+    { "from": "draft_email", "to": "approve_send", "reason": "The human approves the exact draft" },
+    { "from": "approve_send", "to": "send_email", "reason": "Sending is irreversible and needs sign-off" },
+    { "from": "draft_email", "to": "send_email", "reason": "The send uses the approved draft" }
+  ],
+  "phases": [
+    { "phase": 1, "mode": "sequential", "nodes": ["read_middleware"] },
+    { "phase": 2, "mode": "parallel", "nodes": ["audit_endpoint"], "batch_size": 10 },
+    { "phase": 3, "mode": "parallel", "nodes": ["summarize_batch"] },
+    { "phase": 4, "mode": "sequential", "nodes": ["cluster_findings"] },
+    { "phase": 5, "mode": "sequential", "nodes": ["prioritize"] },
+    { "phase": 6, "mode": "sequential", "nodes": ["verify_critical"] },
+    { "phase": 7, "mode": "sequential", "nodes": ["draft_email"] },
+    { "phase": 8, "mode": "sequential", "nodes": ["approve_send"] },
+    { "phase": 9, "mode": "sequential", "nodes": ["send_email"] }
+  ],
+  "consolidation": {
+    "layers": [
+      { "inputs": 60, "batch_size": 20, "outputs": 3 },
+      { "inputs": 3, "batch_size": 3, "outputs": 1 }
+    ],
+    "completeness_check": "received == expected at every layer, list any missing by endpoint_id"
+  },
+  "verification": {
+    "method": "re-derive from source in a fresh context",
+    "scope": "every finding marked critical"
+  }
+}
