@@ -1,0 +1,48 @@
+{
+  "file": "/home/aiwithapex/projects/PDFs/output/graph-engineering/graph-engineering-visual-guide.pdf",
+  "pages": 24,
+  "page_size_points": [
+    960,
+    600
+  ],
+  "words_per_page": [
+    27,
+    65,
+    58,
+    51,
+    40,
+    43,
+    59,
+    63,
+    48,
+    43,
+    36,
+    54,
+    54,
+    45,
+    53,
+    48,
+    62,
+    54,
+    57,
+    68,
+    81,
+    47,
+    75,
+    57
+  ],
+  "average_words_per_page": 53.7,
+  "original_average_words_per_page": 224.1,
+  "reduction_in_words_per_page_percent": 76.1,
+  "original_sha256": "f1937eaad227cbfaf4fff77d40a3cb4d7fd05b83d82ca56d95143b442d1917a6",
+  "images": [
+    "approval-gate.png",
+    "network-sculpture.png",
+    "parallel-paths.png",
+    "state-layers.png"
+  ],
+  "text_bounds_issues": [],
+  "external_links_only_on_final_page": true,
+  "outline_entries": 24,
+  "scope": "Structural and visual checks; not a PDF/UA or PDF/A certification."
+}

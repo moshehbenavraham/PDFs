@@ -1,0 +1,122 @@
+[
+  {
+    "page": 1,
+    "section": "START",
+    "title": "Graph Engineering: The Visual Guide"
+  },
+  {
+    "page": 2,
+    "section": "UNDERSTAND",
+    "title": "A loop lives inside the graph."
+  },
+  {
+    "page": 3,
+    "section": "UNDERSTAND",
+    "title": "Five things you design."
+  },
+  {
+    "page": 4,
+    "section": "UNDERSTAND",
+    "title": "Add structure where it helps."
+  },
+  {
+    "page": 5,
+    "section": "UNDERSTAND",
+    "title": "Four parts. One system."
+  },
+  {
+    "page": 6,
+    "section": "UNDERSTAND",
+    "title": "Work graphs and data graphs."
+  },
+  {
+    "page": 7,
+    "section": "BUILD",
+    "title": "Give every node a clear job."
+  },
+  {
+    "page": 8,
+    "section": "BUILD",
+    "title": "Keep a record the system can read."
+  },
+  {
+    "page": 9,
+    "section": "PATTERN 01 / 06",
+    "title": "Chain: work in order."
+  },
+  {
+    "page": 10,
+    "section": "PATTERN 02 / 06",
+    "title": "Route: choose the right path."
+  },
+  {
+    "page": 11,
+    "section": "PATTERN 03 / 06",
+    "title": "Parallelize: split, then join."
+  },
+  {
+    "page": 12,
+    "section": "PATTERN 04 / 06",
+    "title": "Delegate: let the task shape the team."
+  },
+  {
+    "page": 13,
+    "section": "PATTERN 05 / 06",
+    "title": "Review: improve with evidence."
+  },
+  {
+    "page": 14,
+    "section": "PATTERN 06 / 06",
+    "title": "Gate: pause before the action."
+  },
+  {
+    "page": 15,
+    "section": "BUILD / WORKED EXAMPLE",
+    "title": "One feature. A small, useful graph."
+  },
+  {
+    "page": 16,
+    "section": "OPERATE",
+    "title": "Save progress. Resume deliberately."
+  },
+  {
+    "page": 17,
+    "section": "OPERATE",
+    "title": "Make the failure path explicit."
+  },
+  {
+    "page": 18,
+    "section": "OPERATE",
+    "title": "Less waiting can mean more spending."
+  },
+  {
+    "page": 19,
+    "section": "OPERATE",
+    "title": "Measure the whole result."
+  },
+  {
+    "page": 20,
+    "section": "START SMALL",
+    "title": "Choose the shape of the work."
+  },
+  {
+    "page": 21,
+    "section": "START SMALL",
+    "title": "Try the graph before you automate it."
+  },
+  {
+    "page": 22,
+    "section": "START SMALL",
+    "title": "Build the smallest useful version."
+  },
+  {
+    "page": 23,
+    "section": "KEEP HANDY",
+    "title": "Six rules worth remembering."
+  },
+  {
+    "page": 24,
+    "section": "OPTIONAL / FURTHER READING",
+    "title": "Go deeper when you need to."
+  }
+]
